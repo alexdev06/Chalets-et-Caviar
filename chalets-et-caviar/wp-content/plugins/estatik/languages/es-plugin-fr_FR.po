@@ -1,0 +1,3622 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estatik\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-28 16:56+0200\n"
+"PO-Revision-Date: 2019-04-30 15:35+0200\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Loco-Source-Locale: ru_RU\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: en_GB\n"
+"X-Poedit-SearchPath-0: estatik\n"
+
+#: estatik/admin/classes/class-data-manager-address-item.php:57
+#: estatik/admin/classes/class-data-manager-item.php:158
+#: estatik/admin/classes/class-data-manager-term-item.php:107
+msgid "Item is successfully deleted."
+msgstr ""
+
+#: estatik/admin/classes/class-data-manager-address-item.php:59
+#: estatik/admin/classes/class-data-manager-currency-item.php:59
+#: estatik/admin/classes/class-data-manager-item.php:133
+#: estatik/admin/classes/class-data-manager-item.php:163
+#: estatik/admin/classes/class-data-manager-item.php:185
+#: estatik/admin/classes/class-data-manager-label-item.php:55
+#: estatik/admin/classes/class-data-manager-term-item.php:83
+#: estatik/admin/classes/class-data-manager-term-item.php:122
+msgid "Invalid ajax request."
+msgstr ""
+
+#: estatik/admin/classes/class-data-manager-currency-item.php:31
+msgid "Currency already exists."
+msgstr ""
+
+#: estatik/admin/classes/class-data-manager-currency-item.php:51
+#: estatik/admin/classes/class-data-manager-item.php:127
+#: estatik/admin/classes/class-data-manager-label-item.php:39
+#: estatik/admin/classes/class-data-manager-term-item.php:71
+msgid "Item is successfully created."
+msgstr ""
+
+#: estatik/admin/classes/class-data-manager-currency-item.php:56
+msgid "Please, fill the currency code and label."
+msgstr ""
+
+#: estatik/admin/classes/class-data-manager-item.php:109
+msgid "Item already exists."
+msgstr ""
+
+#: estatik/admin/classes/class-data-manager-item.php:160
+msgid "Nothing for delete."
+msgstr ""
+
+#: estatik/admin/classes/class-data-manager-item.php:183
+#, fuzzy
+#| msgid "field has been deleted."
+msgid "Item has been selected."
+msgstr "Ce champ a été ajouté"
+
+#: estatik/admin/classes/class-data-manager-label-item.php:51
+#: estatik/admin/classes/class-data-manager-term-item.php:79
+msgid "Item doesn't create. Please contact support."
+msgstr ""
+
+#: estatik/admin/classes/class-data-manager-label-item.php:110
+msgid "Item doesn't updated. Please contact support."
+msgstr ""
+
+#: estatik/admin/classes/class-data-manager-label-item.php:112
+msgid "Color successfully changed."
+msgstr "Couleurs changer avec succès"
+
+#: estatik/admin/classes/class-data-manager-term-item.php:115
+msgid "Item doesn't delete. Please contact support."
+msgstr ""
+
+#: estatik/admin/classes/class-data-manager-term-item.php:119
+msgid "Item doesn't exists."
+msgstr ""
+
+#: estatik/admin/classes/class-demo-setup.php:99
+msgid "Start setup data."
+msgstr ""
+
+#: estatik/admin/classes/class-demo-setup.php:136
+#, php-format
+msgid "Created %s page."
+msgstr ""
+
+#: estatik/admin/classes/class-demo-setup.php:218
+#, fuzzy, php-format
+#| msgid "Property has been updated."
+msgid "Property %s successfully imported."
+msgstr "L'annonce a été mise à jour"
+
+#: estatik/admin/classes/class-demo-setup.php:226
+#: estatik/admin/classes/class-demo-setup.php:241
+msgid "Setup finished."
+msgstr ""
+
+#: estatik/admin/classes/class-demo-setup.php:624
+#, fuzzy
+#| msgid "Listings layout"
+msgid "List layout"
+msgstr "Mise en page des annonces"
+
+#: estatik/admin/classes/class-demo-setup.php:629
+msgid "Log In"
+msgstr ""
+
+#: estatik/admin/classes/class-demo-setup.php:634
+#, fuzzy
+#| msgid "Listings layout"
+msgid "Grid layout"
+msgstr "Mise en page des annonces"
+
+#: estatik/admin/classes/class-demo-setup.php:639
+#: estatik/classes/shortcodes/class-restore-password-shortcode.php:13
+msgid "Reset password"
+msgstr ""
+
+#: estatik/admin/classes/class-demo-setup.php:644
+msgid "Advanced Search & Slideshow"
+msgstr ""
+
+#: estatik/admin/classes/class-demo-setup.php:651
+msgid "Front-end management"
+msgstr ""
+
+#: estatik/admin/classes/class-demo-setup.php:657
+#: estatik/classes/shortcodes/class-profile-shortcode.php:136
+#, fuzzy
+#| msgid "After price"
+msgid "My Profile"
+msgstr "Devise après le prix"
+
+#: estatik/admin/classes/class-demo-setup.php:662
+msgid "Agents list"
+msgstr ""
+
+#: estatik/admin/classes/class-demo-setup.php:668
+#, fuzzy
+#| msgid "Description"
+msgid "Registration"
+msgstr "Description"
+
+#: estatik/admin/classes/class-demo-setup.php:673
+msgid "Map view"
+msgstr ""
+
+#: estatik/admin/classes/class-demo-setup.php:679
+#, fuzzy
+#| msgid "Your search results."
+msgid "Search Results"
+msgstr "Vos résultats de recherche"
+
+#: estatik/admin/classes/class-estatik-upgrade.php:24
+msgid "Messenger can't to be empty."
+msgstr ""
+
+#: estatik/admin/classes/class-estatik-upgrade.php:28
+msgid "File can't to be empty."
+msgstr ""
+
+#: estatik/admin/classes/class-estatik-upgrade.php:44
+msgid ""
+"Please, install zip extension for PHP. http://php.net/manual/ru/book.zip.php"
+msgstr ""
+
+#: estatik/admin/classes/class-estatik-upgrade.php:60
+msgid ""
+"Invalid array structure. The Archive should not consist plugin sub folder in "
+"archive."
+msgstr ""
+
+#: estatik/admin/classes/class-estatik-upgrade.php:68
+#, fuzzy
+#| msgid "Agent successfully saved"
+msgid "Estatik successfully upgraded!"
+msgstr "Agent sauvegarder avec succès"
+
+#: estatik/admin/classes/class-fbuilder-helper.php:14
+msgid "Text"
+msgstr ""
+
+#: estatik/admin/classes/class-fbuilder-helper.php:15
+msgid "Number"
+msgstr ""
+
+#: estatik/admin/classes/class-fbuilder-helper.php:16
+#: estatik/classes/class-property.php:246
+msgid "Price"
+msgstr "Prix"
+
+#: estatik/admin/classes/class-fbuilder-helper.php:17
+#: estatik/classes/class-property.php:297
+msgid "Area"
+msgstr "Superficie"
+
+#: estatik/admin/classes/class-fbuilder-helper.php:18
+msgid "File"
+msgstr ""
+
+#: estatik/admin/classes/class-fbuilder-helper.php:19
+#, fuzzy
+#| msgid "Select all"
+msgid "Select"
+msgstr "Tout sélectionner"
+
+#: estatik/admin/classes/class-fbuilder-helper.php:20
+msgid "Text area"
+msgstr ""
+
+#: estatik/admin/classes/class-fbuilder-helper.php:21
+#, fuzzy
+#| msgid "Date format"
+msgid "Date"
+msgstr "Format de la date"
+
+#: estatik/admin/classes/class-fbuilder-helper.php:22
+#, fuzzy
+#| msgid "Date added"
+msgid "Date time"
+msgstr "Date d'ajout"
+
+#: estatik/admin/classes/class-fbuilder-helper.php:23
+#: estatik/admin/classes/widgets/class-request-widget.php:101
+#: estatik/admin/templates/buyers/profile.php:43
+#: estatik/templates/shortcodes/register.php:41
+msgid "Email"
+msgstr ""
+
+#: estatik/admin/classes/class-fbuilder-helper.php:24
+#: estatik/classes/class-user.php:31
+msgid "Tel"
+msgstr ""
+
+#: estatik/admin/classes/class-fbuilder-helper.php:25
+msgid "Url"
+msgstr ""
+
+#: estatik/admin/classes/class-fbuilder-helper.php:331
+#: estatik/classes/pages/class-property-single-page.php:314
+#: estatik/classes/pages/class-property-single-page.php:338
+msgid "Basic facts"
+msgstr "Présentation"
+
+#: estatik/admin/classes/class-fbuilder-helper.php:338
+#: estatik/classes/pages/class-property-single-page.php:97
+#: estatik/classes/pages/class-property-single-page.php:345
+#: estatik/templates/shortcodes/partials/my-profile-tab.php:83
+msgid "Description"
+msgstr "Description"
+
+#: estatik/admin/classes/class-fbuilder-helper.php:344
+#: estatik/classes/class-address-components.php:41
+#: estatik/classes/class-property.php:428
+#: estatik/classes/class-property.php:429
+#: estatik/classes/pages/class-property-single-page.php:315
+#: estatik/classes/pages/class-property-single-page.php:351
+msgid "Neighborhood"
+msgstr "Quartier"
+
+#: estatik/admin/classes/class-fbuilder-helper.php:350
+#: estatik/admin/classes/class-taxonomy.php:98
+#: estatik/admin/classes/pages/class-data-manager-page.php:56
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:195
+#: estatik/classes/class-estatik-init.php:1051
+#: estatik/classes/pages/class-property-single-page.php:164
+#: estatik/classes/pages/class-property-single-page.php:316
+#: estatik/classes/pages/class-property-single-page.php:363
+#: estatik/classes/pages/class-property-single-page.php:386
+msgid "Features"
+msgstr "Caractéristiques"
+
+#: estatik/admin/classes/class-fbuilder-helper.php:358
+#: estatik/classes/pages/class-property-single-page.php:138
+#: estatik/classes/pages/class-property-single-page.php:317
+#: estatik/classes/pages/class-property-single-page.php:357
+msgid "Video"
+msgstr ""
+
+#: estatik/admin/classes/class-property-metabox.php:74
+#, fuzzy
+#| msgid "Property ID"
+msgid "Property data"
+msgstr "Ref annonce"
+
+#: estatik/admin/classes/class-property-metabox.php:100
+msgid "Basic information"
+msgstr "Présentation"
+
+#: estatik/admin/classes/class-property-metabox.php:101
+#: estatik/admin/classes/pages/class-property-list-page.php:150
+#: estatik/admin/classes/widgets/class-search-widget.php:542
+#: estatik/admin/templates/property/filter.php:43
+#: estatik/classes/class-property.php:352
+#: estatik/classes/class-settings-container.php:140
+msgid "Address"
+msgstr "Adresse"
+
+#: estatik/admin/classes/class-property-metabox.php:102
+msgid "Media"
+msgstr "Média"
+
+#: estatik/admin/classes/class-taxonomy.php:95
+#: estatik/admin/classes/pages/class-property-list-page.php:152
+#: estatik/admin/templates/property/filter.php:11
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:89
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:51
+#: estatik/classes/class-estatik-init.php:1030
+#: estatik/classes/class-estatik-init.php:1031
+msgid "Category"
+msgstr "Catégorie"
+
+#: estatik/admin/classes/class-taxonomy.php:96
+#: estatik/admin/classes/pages/class-property-list-page.php:156
+#: estatik/admin/classes/pages/class-user-list.php:247
+#: estatik/admin/templates/property/filter.php:31
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:47
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:9
+#: estatik/classes/class-estatik-init.php:1037
+#: estatik/classes/class-estatik-init.php:1038
+#: estatik/classes/pages/class-property-single-page.php:432
+msgid "Status"
+msgstr "Status"
+
+#: estatik/admin/classes/class-taxonomy.php:97
+#: estatik/admin/classes/pages/class-property-list-page.php:154
+#: estatik/admin/templates/fields-builder/forms/field-form.php:43
+#: estatik/admin/templates/property/filter.php:21
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:60
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:22
+#: estatik/classes/class-estatik-init.php:1044
+#: estatik/classes/class-estatik-init.php:1045
+#: estatik/classes/pages/class-property-single-page.php:431
+msgid "Type"
+msgstr "Type"
+
+#: estatik/admin/classes/class-taxonomy.php:99
+#: estatik/classes/class-estatik-init.php:1058
+#: estatik/classes/class-estatik-init.php:1059
+#: estatik/classes/pages/class-property-single-page.php:430
+msgid "Rent period"
+msgstr "Période de location"
+
+#: estatik/admin/classes/class-taxonomy.php:100
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:208
+#: estatik/classes/class-estatik-init.php:1065
+#: estatik/classes/class-estatik-init.php:1066
+#: estatik/classes/pages/class-property-single-page.php:390
+msgid "Amenities"
+msgstr "Equipements"
+
+#: estatik/admin/classes/class-taxonomy.php:101
+#: estatik/admin/classes/pages/class-data-manager-page.php:60
+#: estatik/admin/templates/settings/general-tab.php:84
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:221
+#: estatik/classes/class-estatik-init.php:1072
+msgid "Labels"
+msgstr ""
+
+#: estatik/admin/classes/migration/class-property-migration.php:319
+#: estatik/admin/classes/migration/class-property-migration.php:333
+#, fuzzy
+#| msgid "Property ID"
+msgid "Property #"
+msgstr "Ref annonce"
+
+#: estatik/admin/classes/migration/class-property-migration.php:344
+#, fuzzy
+#| msgid "Single property"
+msgid "Old property #"
+msgstr "Annonce seule"
+
+#: estatik/admin/classes/migration/class-property-migration.php:437
+#, fuzzy, php-format
+#| msgid "Properties"
+msgid "Property %s image: %s"
+msgstr "Annonces"
+
+#: estatik/admin/classes/migration/class-property-migration.php:507
+#, fuzzy, php-format
+#| msgid "Property has been updated."
+msgid "Property %s successfully migrated"
+msgstr "L'annonce a été mise à jour"
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:99
+msgid "3.8.6 (April, 23, 2019)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:108
+msgid "3.8.5 (April, 08, 2019)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:127
+msgid "3.8.4 (March, 20, 2019)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:134
+msgid "3.8.3 (March, 05, 2019)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:151
+msgid "3.8.2 (January, 16, 2019)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:168
+msgid "3.8.1 (November, 09, 2018)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:186
+msgid "3.8.0 (November, 01, 2018)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:202
+msgid "3.7.2 (October, 03, 2018)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:214
+msgid "3.7.1 (September, 14, 2018)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:223
+msgid "3.7.0 (September, 7, 2018)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:240
+msgid "3.6.6 (August, 14, 2018)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:253
+msgid "3.6.5 (July, 6, 2018)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:266
+msgid "3.6.4 (May 29, 2018)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:278
+msgid "3.6.3 (May 05, 2018)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:303
+msgid "3.6.2 (March 23, 2018)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:315
+msgid "3.6.1 (March 12, 2018)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:326
+msgid "3.6.0 (February 10, 2018)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:336
+msgid "3.5.0 (January 25, 2018)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:347
+msgid "3.4.0 (January 10, 2018)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:360
+msgid "3.3.7 (December 29, 2017)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:368
+msgid "3.3.6 (December 13, 2017)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:381
+msgid "3.3.5 (November 15, 2017)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:393
+msgid "3.3.4 (November 1, 2017)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:410
+msgid "3.3.3 (October 9, 2017)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:418
+msgid "3.3.2 (August 11, 2017)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:423
+msgid "3.3.1 (July 21, 2017)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:427
+msgid "3.3.0 (Juy 17, 2017)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:436
+msgid "3.2.1 (July 8, 2017)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:444
+msgid "3.2.0 (June, 17, 2017)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:453
+msgid "3.1.0 (MAY, 24, 2017)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:464
+msgid "3.0.2 (May, 10, 2017)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:474
+msgid "3.0.1 (APRIL, 18, 2017)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:481
+msgid "3.0.0 (April, 12, 2017)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:497
+msgid "2.4.0 (September 26, 2016)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:501
+msgid "2.3.1 (August 21, 2016)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:505
+msgid "2.3.0 (August 15, 2016)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:511
+msgid "2.2.3 (March 30, 2016)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:522
+msgid "2.2.2 (November 21, 2015)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:532
+msgid "2.2.1 (October 22, 2015)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:536
+msgid "2.2.0 (October 22, 2015)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:548
+msgid "2.1.0 (July 7, 2015)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:562
+msgid "2.0.1"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:568
+msgid "2.0 (May 16, 2015)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:579
+msgid "1.1.1"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:584
+msgid "1.0.1"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-dashboard-page.php:589
+msgid "1.0.0 (March 24, 2015)"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-data-manager-page.php:52
+msgid "Properties details"
+msgstr "Détails des annonces"
+
+#: estatik/admin/classes/pages/class-data-manager-page.php:64
+#: estatik/admin/templates/data-manager/currencies-tab.php:7
+msgid "Currencies"
+msgstr "Devises"
+
+#: estatik/admin/classes/pages/class-data-manager-page.php:68
+msgid "Dimensions"
+msgstr "Superficie"
+
+#: estatik/admin/classes/pages/class-data-manager-page.php:72
+msgid "Addresses"
+msgstr "Adresses"
+
+#: estatik/admin/classes/pages/class-fields-builder-page.php:36
+#, php-format
+msgid ""
+"If you lack some fields, please go to <a href=\"%s\">Fields Builder</a> and "
+"add your own custom fields."
+msgstr ""
+"Si vous souhaitez rajouter des champs personnalisés, cliquez sur  <a href="
+"\"%s\">Créateur de champs personnalisés</a> et ajouter vos propres champs "
+"personnalisés."
+
+#: estatik/admin/classes/pages/class-fields-builder-page.php:88
+msgid "Listing fields"
+msgstr "Vue des champs"
+
+#: estatik/admin/classes/pages/class-fields-builder-page.php:93
+msgid "Listing sections"
+msgstr "Liste des sections"
+
+#: estatik/admin/classes/pages/class-fields-builder-page.php:140
+#, fuzzy, php-format
+#| msgid "Property has been updated."
+msgid "Field %s successfully created."
+msgstr "L'annonce a été mise à jour"
+
+#: estatik/admin/classes/pages/class-fields-builder-page.php:142
+#, fuzzy, php-format
+#| msgid "File doesn't exist."
+msgid "Field %s doesn't created."
+msgstr "Le fichier n'existe pas."
+
+#: estatik/admin/classes/pages/class-fields-builder-page.php:174
+#, fuzzy, php-format
+#| msgid "Property has been updated."
+msgid "Section %s successfully created."
+msgstr "L'annonce a été mise à jour"
+
+#: estatik/admin/classes/pages/class-fields-builder-page.php:176
+#, fuzzy, php-format
+#| msgid "Settings has been updated."
+msgid "Section %s doesn't created."
+msgstr "Paramètres mis à jour"
+
+#: estatik/admin/classes/pages/class-fields-builder-page.php:207
+#, fuzzy
+#| msgid "Agent successfully saved"
+msgid "Field successfully restored."
+msgstr "Agent sauvegarder avec succès"
+
+#: estatik/admin/classes/pages/class-fields-builder-page.php:210
+#: estatik/admin/classes/pages/class-fields-builder-page.php:248
+#, fuzzy, php-format
+#| msgid "File doesn't exist."
+msgid "Field #%s isn't exist."
+msgstr "Le fichier n'existe pas."
+
+#: estatik/admin/classes/pages/class-fields-builder-page.php:245
+#, fuzzy, php-format
+#| msgid "Property has been updated."
+msgid "Field %s successfully removed."
+msgstr "L'annonce a été mise à jour"
+
+#: estatik/admin/classes/pages/class-fields-builder-page.php:270
+#, fuzzy, php-format
+#| msgid "Property has been updated."
+msgid "Section %s successfully removed."
+msgstr "L'annonce a été mise à jour"
+
+#: estatik/admin/classes/pages/class-fields-builder-page.php:273
+#, fuzzy, php-format
+#| msgid "File doesn't exist."
+msgid "Section #%s isn't exist."
+msgstr "Le fichier n'existe pas."
+
+#: estatik/admin/classes/pages/class-migration-page.php:133
+msgid "Estatik settings successfully migrated"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-property-list-page.php:144
+#: estatik/admin/classes/widgets/class-request-widget.php:103
+#: estatik/admin/templates/property/filter.php:37
+msgid "Property ID"
+msgstr "Ref annonce"
+
+#: estatik/admin/classes/pages/class-property-list-page.php:146
+msgid "Image"
+msgstr "Image"
+
+#: estatik/admin/classes/pages/class-property-list-page.php:148
+#: estatik/admin/templates/property/filter.php:48
+#: estatik/admin/templates/settings/general-tab.php:90
+#: estatik/classes/class-property.php:240
+#: estatik/classes/pages/class-property-single-page.php:427
+msgid "Date added"
+msgstr "Date d'ajout"
+
+#: estatik/admin/classes/pages/class-settings-page.php:28
+msgid "General"
+msgstr "Paramètres généraux"
+
+#: estatik/admin/classes/pages/class-settings-page.php:32
+#: estatik/admin/templates/widgets/es-search-widget-form.php:30
+msgid "Layouts"
+msgstr "Disposition / Mise en page"
+
+#: estatik/admin/classes/pages/class-settings-page.php:36
+msgid "Currency"
+msgstr "Devise"
+
+#: estatik/admin/classes/pages/class-settings-page.php:40
+#, fuzzy
+#| msgid "Details"
+msgid "Emails"
+msgstr "Détails"
+
+#: estatik/admin/classes/pages/class-settings-page.php:44
+msgid "Sharing"
+msgstr "Partage"
+
+#: estatik/admin/classes/pages/class-settings-page.php:49
+msgid "Color"
+msgstr "Couleurs"
+
+#: estatik/admin/classes/pages/class-user-list.php:160
+msgid "Active"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-user-list.php:162
+#, fuzzy
+#| msgid "Table"
+msgid "Disabled"
+msgstr "Tableau"
+
+#: estatik/admin/classes/pages/class-user-list.php:246
+msgid "ID"
+msgstr ""
+
+#: estatik/admin/classes/pages/class-user-profile-page.php:66
+msgid "Buyer Info"
+msgstr "Information sur l'agent"
+
+#: estatik/admin/classes/pages/class-user-profile-page.php:147
+#: estatik/classes/class-manage-users.php:84
+#, fuzzy
+#| msgid "Agent successfully saved"
+msgid "User successfully saved"
+msgstr "Agent sauvegarder avec succès"
+
+#: estatik/admin/classes/pages/class-user-profile-page.php:169
+#: estatik/classes/class-manage-users.php:104
+#, fuzzy
+#| msgid "File doesn't exist."
+msgid "User doesn't save"
+msgstr "Le fichier n'existe pas."
+
+#: estatik/admin/classes/widgets/class-property-slideshow-widget.php:13
+#, fuzzy
+#| msgid "Estatik Search"
+msgid "Estatik Slideshow"
+msgstr "Recherche Estatik"
+
+#: estatik/admin/classes/widgets/class-request-widget.php:18
+msgid "Estatik Request Form"
+msgstr ""
+
+#: estatik/admin/classes/widgets/class-request-widget.php:29
+msgid "Admin"
+msgstr ""
+
+#: estatik/admin/classes/widgets/class-request-widget.php:89
+msgid "Invalid captcha."
+msgstr ""
+
+#: estatik/admin/classes/widgets/class-request-widget.php:100
+#: estatik/admin/templates/buyers/profile.php:29
+#: estatik/classes/class-user.php:27
+#: estatik/templates/shortcodes/partials/my-profile-tab.php:39
+#: estatik/templates/shortcodes/register.php:23
+msgid "Name"
+msgstr ""
+
+#: estatik/admin/classes/widgets/class-request-widget.php:102
+msgid "Phone"
+msgstr ""
+
+#: estatik/admin/classes/widgets/class-request-widget.php:104
+#, fuzzy
+#| msgid "Property ID"
+msgid "Property Link"
+msgstr "Ref annonce"
+
+#: estatik/admin/classes/widgets/class-request-widget.php:105
+msgid "Property Address"
+msgstr "Adresse"
+
+#: estatik/admin/classes/widgets/class-request-widget.php:106
+msgid "Request"
+msgstr ""
+
+#: estatik/admin/classes/widgets/class-request-widget.php:113
+#, php-format
+msgid "Request about property #%s"
+msgstr ""
+
+#: estatik/admin/classes/widgets/class-request-widget.php:117
+msgid "Thank you for your message! We will contact you as soon as we can."
+msgstr ""
+
+#: estatik/admin/classes/widgets/class-request-widget.php:119
+msgid "Your message wasn't sent. Please, contact support."
+msgstr ""
+
+#: estatik/admin/classes/widgets/class-request-widget.php:123
+msgid "Incorrect post."
+msgstr ""
+
+#: estatik/admin/classes/widgets/class-search-widget.php:13
+msgid "Estatik Search"
+msgstr "Recherche Estatik"
+
+#: estatik/admin/classes/widgets/class-search-widget.php:14
+msgid "Estatik Search is advanced search widget developed for Estatik plugins."
+msgstr ""
+
+#: estatik/admin/classes/widgets/class-search-widget.php:24
+#, fuzzy
+#| msgid "Search Page"
+msgid "WP Search Page"
+msgstr "Chercher une page"
+
+#: estatik/admin/classes/widgets/class-search-widget.php:35
+#, fuzzy
+msgid "Search page:"
+msgstr "Chercher une page"
+
+#: estatik/admin/classes/widgets/class-search-widget.php:52
+#: estatik/admin/templates/shortcode-builder/params/es_profile-params.php:7
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:75
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:85
+#: estatik/admin/templates/shortcode-builder/params/es_search_form-params.php:58
+msgid "Horizontal"
+msgstr ""
+
+#: estatik/admin/classes/widgets/class-search-widget.php:52
+#: estatik/admin/templates/shortcode-builder/params/es_profile-params.php:6
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:74
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:84
+#: estatik/admin/templates/shortcode-builder/params/es_search_form-params.php:57
+msgid "Vertical"
+msgstr ""
+
+#: estatik/admin/classes/widgets/class-search-widget.php:224
+msgid "min"
+msgstr "min"
+
+#: estatik/admin/classes/widgets/class-search-widget.php:225
+msgid "max"
+msgstr "max"
+
+#: estatik/admin/classes/widgets/class-widget.php:48
+#, fuzzy
+#| msgid "Archive Page"
+msgid "Archive page"
+msgstr "Page d'archive"
+
+#: estatik/admin/classes/widgets/class-widget.php:49
+msgid "Single Page"
+msgstr "Page unique"
+
+#: estatik/admin/classes/widgets/class-widget.php:50
+msgid "Single Property Page"
+msgstr "Annonce seule"
+
+#: estatik/admin/classes/widgets/class-widget.php:51
+#, fuzzy
+#| msgid "Archive Page"
+msgid "Archive Property Page"
+msgstr "Page d'archive"
+
+#: estatik/admin/classes/widgets/class-widget.php:52
+msgid "Category Page"
+msgstr "Catégorie de la page"
+
+#: estatik/admin/classes/widgets/class-widget.php:53
+msgid "Search Page"
+msgstr "Chercher une page"
+
+#: estatik/admin/classes/widgets/class-widget.php:54
+msgid "Author Page"
+msgstr "Auteur"
+
+#: estatik/admin/classes/widgets/class-widget.php:81
+msgid "Show on pages:"
+msgstr "Montrer sur les pages"
+
+#: estatik/admin/classes/widgets/class-widget.php:92
+#, fuzzy
+#| msgid "Select Pages"
+msgid "Select pages"
+msgstr "Sélectionner les pages"
+
+#: estatik/admin/classes/widgets/class-widget.php:119
+#, fuzzy
+#| msgid "All Properties"
+msgid "All pages"
+msgstr "Toutes les annonces"
+
+#: estatik/admin/classes/widgets/class-widget.php:120
+#, fuzzy
+#| msgid "Show On Pages"
+msgid "Show on checked pages"
+msgstr "Montrer sur les pages"
+
+#: estatik/admin/classes/widgets/class-widget.php:121
+msgid "Hide on checked pages"
+msgstr ""
+
+#: estatik/admin/templates/buyers/filter.php:13
+msgid "By Name"
+msgstr "Par nom"
+
+#: estatik/admin/templates/buyers/filter.php:20
+#: estatik/admin/templates/data-manager/address-item.php:8
+#: estatik/admin/templates/property/filter.php:52
+#: estatik/admin/templates/widgets/es-search-widget.php:58
+msgid "Search"
+msgstr "Recherche"
+
+#: estatik/admin/templates/buyers/filter.php:21
+#: estatik/admin/templates/property/filter.php:53
+#: estatik/admin/templates/widgets/es-search-widget.php:55
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: estatik/admin/templates/buyers/filter.php:25
+#: estatik/admin/templates/property/filter.php:59
+msgid "Manage"
+msgstr "Gérer"
+
+#: estatik/admin/templates/buyers/filter.php:26
+#: estatik/admin/templates/property/filter.php:62
+msgid "Select / deselect all"
+msgstr "Sélectionnez / désélectionnez tous"
+
+#: estatik/admin/templates/buyers/filter.php:27
+msgid "Please select agent you want to delete."
+msgstr "Sélectionnez les annonces que vous souhaiez supprimer"
+
+#: estatik/admin/templates/buyers/filter.php:27
+#: estatik/admin/templates/property/filter.php:72
+#, fuzzy
+#| msgid "Are you sure you want to delete it?"
+msgid "Are you sure you want to delete these items?"
+msgstr "Voulez-vous vraiment supprimer ?"
+
+#: estatik/admin/templates/buyers/filter.php:27
+#: estatik/admin/templates/property/filter.php:74
+msgid "Delete"
+msgstr "Supprimer"
+
+#: estatik/admin/templates/buyers/filter.php:28
+msgid "Please select agent you want to active."
+msgstr "Sélectionnez les annonces que vous souhaiez supprimer"
+
+#: estatik/admin/templates/buyers/filter.php:28
+#, fuzzy
+#| msgid "Are you sure you want to delete it?"
+msgid "Are you sure you want to activate these agents?"
+msgstr "Voulez-vous vraiment supprimer ?"
+
+#: estatik/admin/templates/buyers/filter.php:28
+msgid "Activate"
+msgstr ""
+
+#: estatik/admin/templates/buyers/filter.php:29
+msgid "Please select agent you want to deactivate."
+msgstr "Sélectionnez les annonces que vous souhaiez supprimer"
+
+#: estatik/admin/templates/buyers/filter.php:29
+#, fuzzy
+#| msgid "Are you sure you want to delete it?"
+msgid "Are you sure you want to deactivate these agents?"
+msgstr "Voulez-vous vraiment supprimer ?"
+
+#: estatik/admin/templates/buyers/filter.php:29
+msgid "Deactivate"
+msgstr ""
+
+#: estatik/admin/templates/buyers/profile.php:20
+#, fuzzy
+#| msgid "Please fill up your user information below and click save to finish."
+msgid "Please fill up your user information below and click save to finish."
+msgstr ""
+"Remplissez le détail de votre annonce et cliquez sur Enregistrer pour "
+"terminer"
+
+#: estatik/admin/templates/buyers/profile.php:21
+#: estatik/admin/templates/settings/settings.php:12
+#: estatik/admin/templates/upgrade-pro/upgrade-pro.php:10
+#: estatik/templates/shortcodes/partials/my-profile-tab.php:91
+#: estatik/templates/shortcodes/partials/saved-searches-tab.php:30
+msgid "Save"
+msgstr "Enregistrer"
+
+#: estatik/admin/templates/buyers/profile.php:36
+#: estatik/templates/shortcodes/register.php:32
+msgid "User name"
+msgstr ""
+
+#: estatik/admin/templates/buyers/profile.php:50
+#: estatik/templates/shortcodes/partials/my-profile-tab.php:59
+msgid "Telephone"
+msgstr ""
+
+#: estatik/admin/templates/buyers/profile.php:57
+#: estatik/templates/shortcodes/login.php:21
+#: estatik/templates/shortcodes/partials/my-profile-tab.php:68
+msgid "Password"
+msgstr ""
+
+#: estatik/admin/templates/buyers/profile.php:66
+msgid "About"
+msgstr ""
+
+#: estatik/admin/templates/buyers/profile.php:73
+msgid "Profile photo"
+msgstr ""
+
+#: estatik/admin/templates/buyers/profile.php:76
+msgid "Add image(s) to user"
+msgstr "Ajouter des images pour l'utilisateur"
+
+#: estatik/admin/templates/buyers/profile.php:76
+#: estatik/admin/templates/buyers/profile.php:77
+#: estatik/admin/templates/property/media.php:28
+#: estatik/admin/templates/property/media.php:29
+#: estatik/admin/templates/settings/email-tab.php:7
+#: estatik/admin/templates/settings/email-tab.php:8
+msgid "Add image(s)"
+msgstr "Ajouter des images"
+
+#: estatik/admin/templates/buyers/profile.php:109
+#: estatik/admin/templates/data-manager/item.php:38
+#: estatik/admin/templates/data-manager/label-item.php:53
+#: estatik/admin/templates/data-manager/term-item.php:26
+#: estatik/admin/templates/property/custom-fields.php:20
+msgid "text/number"
+msgstr ""
+
+#: estatik/admin/templates/buyers/profile.php:110
+#: estatik/admin/templates/property/custom-fields.php:21
+msgid "Add new field"
+msgstr "Ajouter un nouveau champ"
+
+#: estatik/admin/templates/dashboard/dashboard.php:4
+#: estatik/classes/class-estatik-init.php:851
+#: estatik/classes/class-estatik-init.php:852
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: estatik/admin/templates/dashboard/dashboard.php:12
+#: estatik/admin/templates/property/list.php:11
+#: estatik/classes/class-estatik-init.php:860
+#: estatik/classes/class-estatik-init.php:861
+#: estatik/classes/shortcodes/class-my-listing-shortcode.php:12
+msgid "My listings"
+msgstr "Mes annonces"
+
+#: estatik/admin/templates/dashboard/dashboard.php:18
+#: estatik/admin/templates/fields-builder/forms/field-form.php:28
+#: estatik/admin/templates/fields-builder/forms/section-form.php:24
+#: estatik/admin/templates/property/list.php:12
+msgid "Add new"
+msgstr "Ajouter"
+
+#: estatik/admin/templates/dashboard/dashboard.php:24
+#: estatik/admin/templates/data-manager/data-manager.php:4
+msgid "Data manager"
+msgstr "Gestion des données"
+
+#: estatik/admin/templates/dashboard/dashboard.php:30
+msgid "Fields Builder"
+msgstr "Constructeur de champs"
+
+#: estatik/admin/templates/dashboard/dashboard.php:36
+#: estatik/admin/templates/settings/settings.php:6
+#: estatik/classes/class-estatik-init.php:912
+#: estatik/classes/class-estatik-init.php:913
+msgid "Settings"
+msgstr "Paramètres"
+
+#: estatik/admin/templates/dashboard/dashboard.php:43
+msgid "Get support"
+msgstr "Aide"
+
+#: estatik/admin/templates/dashboard/dashboard.php:49
+msgid "Step-by-step guide"
+msgstr "Guide pas-à-pas"
+
+#: estatik/admin/templates/dashboard/dashboard.php:55
+msgid "FAQ"
+msgstr ""
+
+#: estatik/admin/templates/dashboard/dashboard.php:61
+msgid "Video Tutorial"
+msgstr "Tutoriel vidéo"
+
+#: estatik/admin/templates/dashboard/dashboard.php:67
+msgid "Submit a ticket"
+msgstr "Demander de l'aide"
+
+#: estatik/admin/templates/dashboard/dashboard.php:77
+msgid "Shortcodes"
+msgstr ""
+
+#: estatik/admin/templates/dashboard/dashboard.php:90
+msgid "Changelog"
+msgstr ""
+
+#: estatik/admin/templates/dashboard/dashboard.php:104
+msgid "Choose your theme"
+msgstr "Choisissez votre thème"
+
+#: estatik/admin/templates/dashboard/dashboard.php:120
+#, fuzzy
+#| msgid "Undo selection"
+msgid "Upgrade Options"
+msgstr "Déselectionner"
+
+#: estatik/admin/templates/dashboard/dashboard.php:126
+msgid "PRO Pack"
+msgstr ""
+
+#: estatik/admin/templates/dashboard/dashboard.php:127
+msgid ""
+"Unlock advanced features like PDF flyer, Map view, Frontend Submission, "
+"Agents, Subscriptions, CSV import, White Label, etc. PLUS choose one of "
+"Estatik Themes for FREE!"
+msgstr ""
+
+#: estatik/admin/templates/dashboard/dashboard.php:133
+msgid "Developer's Pack"
+msgstr ""
+
+#: estatik/admin/templates/dashboard/dashboard.php:134
+msgid ""
+"Great deal for developers! Save money and get Estatik PRO with absolutely "
+"ALL available Estatik Themes. <b>unlimited</b> unlimited number of websites "
+"& get <b>lifetime</b> Estatik updates!"
+msgstr ""
+
+#: estatik/admin/templates/dashboard/dashboard.php:140
+msgid "Premium Pack"
+msgstr ""
+
+#: estatik/admin/templates/dashboard/dashboard.php:141
+msgid ""
+"All-inclusive Estatik Package with MLS organic import tool via RETS. Sit "
+"back and let us handle everything! Click here to read details."
+msgstr ""
+
+#: estatik/admin/templates/data-manager/currency-item.php:37
+msgid "Currency code (USD)"
+msgstr "Code monétaire (USD)"
+
+#: estatik/admin/templates/data-manager/currency-item.php:38
+msgid "Currency label ($)"
+msgstr "Symbole monétaire"
+
+#: estatik/admin/templates/data-manager/currency-item.php:40
+#: estatik/admin/templates/data-manager/item.php:40
+#: estatik/admin/templates/data-manager/label-item.php:54
+#: estatik/admin/templates/data-manager/term-item.php:28
+msgid "Add new item"
+msgstr "Ajouter un nouvel élément"
+
+#: estatik/admin/templates/data-manager/data-manager.php:23
+msgid "Are you sure you want to delete it?"
+msgstr "Voulez-vous vraiment supprimer ?"
+
+#: estatik/admin/templates/data-manager/dimensions-tab.php:7
+msgid "Area & Lot size unit"
+msgstr "Surface du terrain"
+
+#: estatik/admin/templates/demo-content/demo-step.php:7
+msgid "Step 1. Estatik Pages Setup"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/demo-step.php:8
+msgid ""
+"Please select the pages you want to setup below and click Next step to "
+"continue. Estatik will create a few listings with demo content and ready-to-"
+"use page you will select below."
+msgstr ""
+
+#: estatik/admin/templates/demo-content/demo-step.php:24
+#: estatik/admin/templates/demo-content/demo-step.php:53
+msgid "Next step"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/demo-step.php:28
+msgid "Step 2. Setup keys"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/demo-step.php:29
+msgid ""
+"Add your Google Map API key and Recaptcha keys below. It's required for "
+"Search and Request info widgets."
+msgstr ""
+
+#: estatik/admin/templates/demo-content/demo-step.php:33
+msgid "Google Map API Key"
+msgstr "Clé de l'API Google Map"
+
+#: estatik/admin/templates/demo-content/demo-step.php:35
+#: estatik/admin/templates/demo-content/demo-step.php:41
+#: estatik/admin/templates/demo-content/demo-step.php:47
+msgid "Get My Key"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/demo-step.php:39
+#: estatik/admin/templates/settings/general-tab.php:144
+msgid "Google Recaptcha SiteKey"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/demo-step.php:45
+#: estatik/admin/templates/settings/general-tab.php:148
+msgid "Google Recaptcha SecretKey"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/demo-step.php:52
+#: estatik/admin/templates/demo-content/demo-step.php:74
+#: estatik/templates/partials/request-form-response.php:4
+msgid "Back"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/demo-step.php:57
+#, fuzzy
+#| msgid "My listings"
+msgid "Step 3. Demo listings setup"
+msgstr "Mes annonces"
+
+#: estatik/admin/templates/demo-content/demo-step.php:58
+msgid ""
+"To import demo listings, please click on Import button or click Finish if "
+"you want to skip this step."
+msgstr ""
+
+#: estatik/admin/templates/demo-content/demo-step.php:70
+#, fuzzy
+#| msgid "Start import"
+msgid "Import"
+msgstr "Commencer à importer"
+
+#: estatik/admin/templates/demo-content/demo-step.php:75
+msgid "Finish"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/finished-step.php:7
+msgid "You did it!"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/finished-step.php:8
+msgid "What to do next:"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/finished-step.php:15
+#, fuzzy
+#| msgid "My listings"
+msgid "View demo listings"
+msgstr "Mes annonces"
+
+#: estatik/admin/templates/demo-content/finished-step.php:22
+#, fuzzy
+#| msgid "Address"
+msgid "Add my first listing"
+msgstr "Adresse"
+
+#: estatik/admin/templates/demo-content/finished-step.php:30
+msgid "Go to estatik dashboard"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/partials/step-pagination.php:15
+#, fuzzy
+#| msgid "Page Section"
+msgid "Pages setup"
+msgstr "Dans la section"
+
+#: estatik/admin/templates/demo-content/partials/step-pagination.php:19
+msgid "Setup keys"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/partials/step-pagination.php:23
+#, fuzzy
+#| msgid "My listings"
+msgid "Demo listing"
+msgstr "Mes annonces"
+
+#: estatik/admin/templates/demo-content/start-step.php:7
+msgid "Thank you for choosing Estatik "
+msgstr ""
+
+#: estatik/admin/templates/demo-content/start-step.php:9
+msgid "We are so happy you joined us"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/start-step.php:10
+#, php-format
+msgid ""
+"Grab your instant <b>5% off on any Estatik products</b> using coupon code "
+"below"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/start-step.php:15
+msgid "THANKYOU"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/start-step.php:22
+#: estatik/admin/templates/demo-content/start-step.php:24
+msgid "Skip demo setup"
+msgstr ""
+
+#: estatik/admin/templates/demo-content/start-step.php:27
+msgid "Setup DEMO"
+msgstr ""
+
+#: estatik/admin/templates/fields-builder/forms/field-form.php:13
+#, fuzzy
+#| msgid "Create field"
+msgid "Update field"
+msgstr "Créer un champ"
+
+#: estatik/admin/templates/fields-builder/forms/field-form.php:14
+#: estatik/admin/templates/fields-builder/forms/section-form.php:14
+#, fuzzy
+#| msgid "Undo selection"
+msgid "Update"
+msgstr "Déselectionner"
+
+#: estatik/admin/templates/fields-builder/forms/field-form.php:17
+msgid "Create field"
+msgstr "Créer un champ"
+
+#: estatik/admin/templates/fields-builder/forms/field-form.php:18
+#: estatik/admin/templates/fields-builder/forms/section-form.php:17
+msgid "Create"
+msgstr "Créer"
+
+#: estatik/admin/templates/fields-builder/forms/field-form.php:37
+msgid "Field Name"
+msgstr "Nom du champ"
+
+#: estatik/admin/templates/fields-builder/forms/field-form.php:45
+msgid "-- Choose field type --"
+msgstr "Choix du type de champ"
+
+#: estatik/admin/templates/fields-builder/forms/field-form.php:61
+msgid "Page Section"
+msgstr "Dans la section"
+
+#: estatik/admin/templates/fields-builder/forms/field-form.php:67
+msgid "Admin tab"
+msgstr "Onglet administrateur "
+
+#: estatik/admin/templates/fields-builder/forms/field-form.php:73
+msgid "Mandatory"
+msgstr "Obligatoire"
+
+#: estatik/admin/templates/fields-builder/forms/field-form.php:80
+#, fuzzy
+#| msgid "Get Support"
+msgid "RETS Support"
+msgstr "Aide"
+
+#: estatik/admin/templates/fields-builder/forms/field-form.php:87
+#, fuzzy
+#| msgid "Get Support"
+msgid "Search Support"
+msgstr "Aide"
+
+#: estatik/admin/templates/fields-builder/forms/field-form.php:93
+#: estatik/admin/templates/fields-builder/forms/section-form.php:51
+msgid "Visible for"
+msgstr "Visible pour"
+
+#: estatik/admin/templates/fields-builder/forms/field-form.php:95
+#: estatik/admin/templates/fields-builder/forms/section-form.php:53
+msgid "All Users"
+msgstr "Tous les utilisateurs"
+
+#: estatik/admin/templates/fields-builder/forms/field-form.php:96
+#: estatik/admin/templates/fields-builder/forms/section-form.php:54
+msgid "Admins"
+msgstr "Les admninistrateurs"
+
+#: estatik/admin/templates/fields-builder/forms/section-form.php:13
+#, fuzzy
+#| msgid "Undo selection"
+msgid "Update section"
+msgstr "Déselectionner"
+
+#: estatik/admin/templates/fields-builder/forms/section-form.php:16
+msgid "Create section"
+msgstr "Créer une section"
+
+#: estatik/admin/templates/fields-builder/forms/section-form.php:33
+msgid "Section Name"
+msgstr "Nom de la section"
+
+#: estatik/admin/templates/fields-builder/forms/section-form.php:39
+msgid "Show tab"
+msgstr "Afficher l'onglet"
+
+#: estatik/admin/templates/fields-builder/main.php:13
+#: estatik/classes/class-estatik-init.php:903
+#: estatik/classes/class-estatik-init.php:904
+msgid "Fields builder"
+msgstr "Créateur de champs personnalisés"
+
+#: estatik/admin/templates/fields-builder/main.php:15
+msgid ""
+"Here you can add new preset fields that you can find in Add new listing. To "
+"add new field, please configure the fields below and click Create button."
+msgstr ""
+"Ici vous pouvez ajouter de nouveaux champs et de nouvelles sections. Pour "
+"ajouter un champ, compléter les informations et cliquez sur le bouton créer."
+
+#: estatik/admin/templates/fields-builder/partials/_field.php:16
+#: estatik/admin/templates/fields-builder/partials/_field.php:26
+#, fuzzy
+#| msgid "Remove image"
+msgid "Remove field"
+msgstr "Supprimer l'image"
+
+#: estatik/admin/templates/fields-builder/partials/_field.php:19
+msgid "Edit field"
+msgstr "Modifier le champ"
+
+#: estatik/admin/templates/fields-builder/partials/_field.php:23
+#, fuzzy
+#| msgid "Create field"
+msgid "Restore field"
+msgstr "Créer un champ"
+
+#: estatik/admin/templates/fields-builder/partials/_section.php:17
+#, fuzzy
+#| msgid "Undo selection"
+msgid "Remove section"
+msgstr "Déselectionner"
+
+#: estatik/admin/templates/fields-builder/partials/_section.php:20
+#, fuzzy
+#| msgid "Undo selection"
+msgid "Edit Section"
+msgstr "Déselectionner"
+
+#: estatik/admin/templates/fields-builder/partials/options/file.php:4
+msgid "Mime types"
+msgstr ""
+
+#: estatik/admin/templates/fields-builder/partials/options/file.php:8
+msgid "Show as thumbnail"
+msgstr ""
+
+#: estatik/admin/templates/fields-builder/partials/options/multiple.php:13
+msgid "-- Input value --"
+msgstr ""
+
+#: estatik/admin/templates/fields-builder/partials/options/multiple.php:22
+msgid "Multiple"
+msgstr ""
+
+#: estatik/admin/templates/fields-builder/partials/options/number.php:4
+msgid "Min"
+msgstr "min"
+
+#: estatik/admin/templates/fields-builder/partials/options/number.php:9
+#, fuzzy
+#| msgid "Map"
+msgid "Max"
+msgstr "Carte"
+
+#: estatik/admin/templates/fields-builder/partials/options/number.php:14
+msgid "Step"
+msgstr ""
+
+#: estatik/admin/templates/fields-builder/partials/options/range.php:3
+#, fuzzy
+#| msgid "Search Page"
+msgid "Show search range"
+msgstr "Chercher une page"
+
+#: estatik/admin/templates/fields-builder/partials/options/range.php:9
+#, fuzzy
+#| msgid "Field Name"
+msgid "Field range mode"
+msgstr "Nom du champ"
+
+#: estatik/admin/templates/migration/migration.php:4
+#: estatik/classes/class-estatik-init.php:942
+#: estatik/classes/class-estatik-init.php:943
+msgid "Migration"
+msgstr ""
+
+#: estatik/admin/templates/migration/migration.php:9
+msgid ""
+"To update the previous version to major version 3.* you need to migrate your "
+"listings \n"
+"                    as the new version of the plugin requires. Before doing "
+"this, please make sure that your version \n"
+"                    of the plugin doesn't have custom changes of the code."
+msgstr ""
+
+#: estatik/admin/templates/migration/migration.php:14
+msgid ""
+"Migration process may take some time, especially if you have lots of "
+"properties added. \n"
+"                    Please be patient."
+msgstr ""
+
+#: estatik/admin/templates/migration/migration.php:17
+msgid "Migrate"
+msgstr ""
+
+#: estatik/admin/templates/property/filter.php:2
+msgid "Filter by"
+msgstr "Filtrer par"
+
+#: estatik/admin/templates/property/filter.php:65
+msgid "Please select properties you want to copy."
+msgstr "Sélectionnez les annonces que vous souhaitez copier"
+
+#: estatik/admin/templates/property/filter.php:66
+msgid "Are you sure you want to copy these items?"
+msgstr "Etes-vous sûr de vouloir copier ceci?"
+
+#: estatik/admin/templates/property/filter.php:68
+#: estatik/classes/class-post-duplicate.php:51
+msgid "Copy"
+msgstr "Copier"
+
+#: estatik/admin/templates/property/filter.php:71
+msgid "Please select properties you want to delete."
+msgstr "Sélectionnez les annonces que vous souhaiez supprimer"
+
+#: estatik/admin/templates/property/filter.php:77
+msgid "Please select properties you want to publish."
+msgstr "Sélectionnez les annonces que vous  souhaitez publier"
+
+#: estatik/admin/templates/property/filter.php:78
+msgid "Are you sure you want to publish these items?"
+msgstr "Etes-vous sûr de vouloir publier?"
+
+#: estatik/admin/templates/property/filter.php:80
+msgid "Publish"
+msgstr "Publier"
+
+#: estatik/admin/templates/property/filter.php:83
+msgid "Please select properties you want to unpublish."
+msgstr "Sélectionnez les annonces que vous souhaitez retirer de la publication"
+
+#: estatik/admin/templates/property/filter.php:84
+msgid "Are you sure you want to unpublish these items?"
+msgstr "Etes-vous sûr de vouloir le retirer du site?"
+
+#: estatik/admin/templates/property/filter.php:86
+msgid "Unpublish"
+msgstr "Retirer du site"
+
+#: estatik/admin/templates/property/media.php:7
+msgid ""
+"Here you can add video and upload images. Please enter video code in iframe "
+"format, e.g. -"
+msgstr ""
+"Ajouter des photos. Pour ajouter des vidéos, entrez le code dans le format "
+"iframe."
+
+#: estatik/admin/templates/property/media.php:16
+msgid "Embed the code"
+msgstr "Intégrez le code"
+
+#: estatik/admin/templates/property/media.php:28
+msgid "Add image(s) to property"
+msgstr "Ajouter des images pour l'annonce"
+
+#: estatik/admin/templates/property/media.php:49
+#, php-format
+msgid ""
+"Your theme has no <a href=\"%s\" target=\"_blank\">post thumbnail support</"
+"a>."
+msgstr ""
+
+#: estatik/admin/templates/property/metabox.php:34
+#, php-format
+msgid ""
+"Please enter Google Map API key in <a href=\"%s\" target=\"_blank\">General "
+"Settings</a> of the plugin."
+msgstr ""
+
+#: estatik/admin/templates/settings/color-tab.php:7
+msgid "Main color"
+msgstr "Couleur principal"
+
+#: estatik/admin/templates/settings/color-tab.php:9
+msgid "Select color for Details and Search buttons"
+msgstr ""
+
+#: estatik/admin/templates/settings/color-tab.php:14
+msgid "Secondary color"
+msgstr "Couleur secondaire"
+
+#: estatik/admin/templates/settings/color-tab.php:16
+msgid "Select color for widgets background and other grey elements"
+msgstr ""
+
+#: estatik/admin/templates/settings/color-tab.php:21
+msgid "Reset button color"
+msgstr "Couleur du bouton Réinitialiser"
+
+#: estatik/admin/templates/settings/color-tab.php:23
+msgid "Select color for reset button of search widget"
+msgstr ""
+
+#: estatik/admin/templates/settings/color-tab.php:28
+msgid "Frame color"
+msgstr "Couleur du cadre"
+
+#: estatik/admin/templates/settings/color-tab.php:30
+msgid "Change color for listing box border appearing when hovering it"
+msgstr ""
+
+#: estatik/admin/templates/settings/currency-tab.php:7
+msgid "Default currency"
+msgstr "Devise par défaut"
+
+#: estatik/admin/templates/settings/currency-tab.php:10
+#, fuzzy
+#| msgid "Currency"
+msgid "Choose currency"
+msgstr "Devise"
+
+#: estatik/admin/templates/settings/currency-tab.php:13
+msgid "Price format"
+msgstr "Format du prix"
+
+#: estatik/admin/templates/settings/currency-tab.php:18
+msgid "Currency sign place"
+msgstr "Symbole de la monnaie"
+
+#: estatik/admin/templates/settings/email-tab.php:4
+#, fuzzy
+#| msgid "Admin Logo image"
+msgid "Email Logo Image"
+msgstr "Admin Logo"
+
+#: estatik/admin/templates/settings/email-tab.php:7
+msgid "Add image(s) to agent"
+msgstr ""
+
+#: estatik/admin/templates/settings/general-tab.php:8
+msgid "-- Select page --"
+msgstr "Sélectionner les pages"
+
+#: estatik/admin/templates/settings/general-tab.php:16
+msgid "Powered by link"
+msgstr "Sponsorisé par"
+
+#: estatik/admin/templates/settings/general-tab.php:22
+msgid "Number of listings per page"
+msgstr "Nombre d'annonces par page"
+
+#: estatik/admin/templates/settings/general-tab.php:28
+msgid "Custom Property Slug URI"
+msgstr "URI personnalisée des biens"
+
+#: estatik/admin/templates/settings/general-tab.php:33
+msgid "Custom Property Name"
+msgstr "Nom personnalisé pour les biens"
+
+#: estatik/admin/templates/settings/general-tab.php:38
+msgid "Show price"
+msgstr "Afficher le prix"
+
+#: estatik/admin/templates/settings/general-tab.php:44
+msgid "Disable Property Featured Image"
+msgstr "Désactiver l'image de présentation des propriétés"
+
+#: estatik/admin/templates/settings/general-tab.php:50
+msgid "Title / Address"
+msgstr "Titre / adresse"
+
+#: estatik/admin/templates/settings/general-tab.php:54
+msgid "Show Address"
+msgstr "Afficher l'adresse"
+
+#: estatik/admin/templates/settings/general-tab.php:60
+msgid "Enable Buyers"
+msgstr "Autoriser les agents"
+
+#: estatik/admin/templates/settings/general-tab.php:66
+msgid "Hide Property Top Bar"
+msgstr "Cacher la Top Bar des propriétés"
+
+#: estatik/admin/templates/settings/general-tab.php:72
+msgid "Enable Wishlist"
+msgstr "Autoriser la liste blanche"
+
+#: estatik/admin/templates/settings/general-tab.php:78
+msgid "Disable meta:og tags"
+msgstr "Désactiver les meta: og tags"
+
+#: estatik/admin/templates/settings/general-tab.php:96
+msgid "Date format"
+msgstr "Format de la date"
+
+#: estatik/admin/templates/settings/general-tab.php:101
+msgid "Theme style"
+msgstr "Style de thème"
+
+#: estatik/admin/templates/settings/general-tab.php:106
+msgid "Privacy Policy Checkbox"
+msgstr "Demander l'accord avec la politique de confidencialité"
+
+#: estatik/admin/templates/settings/general-tab.php:110
+msgid "Terms of Use page"
+msgstr "Page des conditions d'utilisation"
+
+#: estatik/admin/templates/settings/general-tab.php:115
+msgid "Privacy Policy page"
+msgstr "Page de la politique de confidentialité"
+
+#: estatik/admin/templates/settings/general-tab.php:120
+msgid "Search page"
+msgstr "Page des résultats de recherches"
+
+#: estatik/admin/templates/settings/general-tab.php:125
+msgid "Registration page"
+msgstr "Page d'enregistrement"
+
+#: estatik/admin/templates/settings/general-tab.php:130
+msgid "Login page"
+msgstr "Page de connexion"
+
+#: estatik/admin/templates/settings/general-tab.php:135
+msgid "Reset password page"
+msgstr "Page de réinitialisation du mot de passe"
+
+#: estatik/admin/templates/settings/general-tab.php:140
+msgid "Google map API key"
+msgstr "Clé de l'API de Google Map"
+
+#: estatik/admin/templates/settings/layouts-tab.php:9
+msgid "Listings layout"
+msgstr "Mise en page des annonces"
+
+#: estatik/admin/templates/settings/layouts-tab.php:27
+msgid "Single property layout"
+msgstr "Disposition de propriété unique"
+
+#: estatik/admin/templates/settings/settings.php:11
+msgid "Please fill up your settings details and click save to finish"
+msgstr "Remplissez vos paramètres et cliquez sur Enregistrer pour sauvegarder"
+
+#: estatik/admin/templates/settings/sharing-tab.php:3
+msgid "Twitter"
+msgstr ""
+
+#: estatik/admin/templates/settings/sharing-tab.php:9
+msgid "Facebook"
+msgstr ""
+
+#: estatik/admin/templates/settings/sharing-tab.php:15
+msgid "Google+"
+msgstr ""
+
+#: estatik/admin/templates/settings/sharing-tab.php:21
+msgid "LinkedIn"
+msgstr ""
+
+#: estatik/admin/templates/settings/sharing-tab.php:27
+#, fuzzy
+#| msgid "PDF Player"
+msgid "PDF flyer"
+msgstr "PDF"
+
+#: estatik/admin/templates/settings/sharing-tab.php:34
+#, php-format
+msgid ""
+"PDF Feature is available in <a href=\"%s\" target=\"_blank\">Estatik Pro</a> "
+"version only."
+msgstr ""
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:4
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:3
+#, fuzzy
+#| msgid "Estatik General settings"
+msgid "General settings"
+msgstr "Paramètres généraux d'Estatik"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:11
+#: estatik/admin/templates/shortcode-builder/params/es_profile-params.php:3
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:81
+#: estatik/admin/templates/shortcode-builder/params/es_search-params.php:7
+#: estatik/admin/templates/shortcode-builder/params/es_search_form-params.php:54
+#: estatik/admin/templates/widgets/es-property-slideshow-widget-form.php:118
+msgid "Layout"
+msgstr "Disposition / Mise en page"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:12
+msgid "Choose the layout for listings."
+msgstr ""
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:24
+#, fuzzy
+#| msgid "Properties by Agent"
+msgid "Properties Per Page"
+msgstr "Annonces par Agence"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:31
+msgid "Sort By"
+msgstr ""
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:34
+#, fuzzy
+#| msgid "Select all"
+msgid "Select Sort"
+msgstr "Tout sélectionner"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:76
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:38
+msgid "Rent Period"
+msgstr "Période de location"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:105
+#, fuzzy
+#| msgid "New Property"
+msgid "Show Properties"
+msgstr "Nouvelle annonce"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:108
+#: estatik/admin/templates/shortcode-builder/params/es_single-params.php:10
+#, fuzzy
+#| msgid "Property title"
+msgid "Type Property ID or Title"
+msgstr "Titre de la propriété"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:114
+#, fuzzy
+#| msgid "Show price"
+msgid "Show Filter"
+msgstr "Afficher le prix"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:124
+#, fuzzy
+#| msgid "Address"
+msgid "Address settings"
+msgstr "Adresse"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:130
+#, fuzzy
+#| msgid "Address"
+msgid "Address String"
+msgstr "Adresse"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:142
+#: estatik/classes/class-address-components.php:46
+#: estatik/classes/class-property.php:392
+#: estatik/classes/class-property.php:393
+msgid "Country"
+msgstr "Pays"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:145
+#, fuzzy
+#| msgid "Country"
+msgid "Select Country"
+msgstr "Pays"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:157
+#: estatik/classes/class-address-components.php:44
+#: estatik/classes/class-address-components.php:45
+#: estatik/classes/class-property.php:404
+#: estatik/classes/class-property.php:405
+msgid "State"
+msgstr "Etat"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:160
+#, fuzzy
+#| msgid "Select all"
+msgid "Select State"
+msgstr "Tout sélectionner"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:172
+#: estatik/classes/class-address-components.php:42
+#: estatik/classes/class-property.php:416
+#: estatik/classes/class-property.php:417
+msgid "City"
+msgstr "Ville"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:175
+#, fuzzy
+#| msgid "Country"
+msgid "Select City"
+msgstr "Pays"
+
+#: estatik/admin/templates/shortcode-builder/params/es_my_listing-params.php:189
+#, fuzzy
+#| msgid "Features"
+msgid "Specific Features"
+msgstr "Caractéristiques"
+
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:66
+msgid "Slider settings"
+msgstr "Paramètres du slider"
+
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:71
+#, fuzzy
+#| msgid "Slider settings"
+msgid "Slider effect"
+msgstr "Paramètres du slider"
+
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:93
+msgid "Slides To Show"
+msgstr ""
+
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:100
+msgid "Margin"
+msgstr ""
+
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:109
+#: estatik/admin/templates/widgets/es-property-slideshow-widget-form.php:107
+msgid "Limit"
+msgstr ""
+
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:116
+#, fuzzy
+#| msgid "All Properties"
+msgid "Show All Properties"
+msgstr "Toutes les annonces"
+
+#: estatik/admin/templates/shortcode-builder/params/es_property_slideshow-params.php:123
+#, fuzzy
+#| msgid "Show Address"
+msgid "Show Arrows"
+msgstr "Afficher l'adresse"
+
+#: estatik/admin/templates/shortcode-builder/params/es_search-params.php:8
+msgid "Choose the layout for listings on Search results page."
+msgstr ""
+
+#: estatik/admin/templates/shortcode-builder/params/es_search_form-params.php:14
+#: estatik/admin/templates/widgets/es-property-slideshow-widget-form.php:34
+#: estatik/classes/class-settings-container.php:140
+msgid "Title"
+msgstr "Titre"
+
+#: estatik/admin/templates/shortcode-builder/params/es_search_form-params.php:22
+#, fuzzy
+#| msgid "Search Page"
+msgid "Search Result Page"
+msgstr "Chercher une page"
+
+#: estatik/admin/templates/shortcode-builder/params/es_search_form-params.php:23
+msgid "Select here the correct page with shortcode [es_search]."
+msgstr ""
+
+#: estatik/admin/templates/shortcode-builder/params/es_search_form-params.php:27
+#, fuzzy
+#| msgid "Select Pages"
+msgid "Select page"
+msgstr "Sélectionner les pages"
+
+#: estatik/admin/templates/shortcode-builder/params/es_search_form-params.php:41
+#, fuzzy
+#| msgid "Search Title:"
+msgid "Search Fields"
+msgstr "Recherche"
+
+#: estatik/admin/templates/shortcode-builder/params/es_single-params.php:5
+#, fuzzy
+#| msgid "New Property"
+msgid "Show Property"
+msgstr "Nouvelle annonce"
+
+#: estatik/admin/templates/shortcode-builder/params/es_single-params.php:6
+msgid "Please start typing the listing TITLE and select the correct one below."
+msgstr ""
+
+#: estatik/admin/templates/shortcode-builder/popup.php:19
+#, fuzzy
+#| msgid "Choose Your Theme"
+msgid "Insert shortcode"
+msgstr "Choisissez votre thème"
+
+#: estatik/admin/templates/shortcode-builder/popup.php:20
+msgid "Please click on a drop-down list and pick up the required shortcode."
+msgstr ""
+
+#: estatik/admin/templates/shortcode-builder/popup.php:24
+#, fuzzy
+#| msgid "Select Pages"
+msgid "Select a shortcode"
+msgstr "Sélectionner les pages"
+
+#: estatik/admin/templates/shortcode-builder/popup.php:27
+#, fuzzy
+#| msgid "Choose Your Theme"
+msgid "Choose shortcode"
+msgstr "Choisissez votre thème"
+
+#: estatik/admin/templates/shortcode-builder/popup.php:43
+msgid "Cancel"
+msgstr "Annulé"
+
+#: estatik/admin/templates/shortcode-builder/popup.php:44
+#, fuzzy
+#| msgid "Select Pages"
+msgid "Generate Shortcode"
+msgstr "Sélectionner les pages"
+
+#: estatik/admin/templates/upgrade-pro/upgrade-pro.php:4
+#, fuzzy
+#| msgid "Upload Downloaded Estatik Pro"
+msgid "Upload downloaded estatik pro / premium"
+msgstr ""
+"Télécharger\n"
+" \n"
+"téléchargé\n"
+" \n"
+"Estatik\n"
+" \n"
+"Pro"
+
+#: estatik/admin/templates/upgrade-pro/upgrade-pro.php:9
+#, fuzzy
+#| msgid ""
+#| "version in zip format and click upload to finish for update to pro "
+#| "Version."
+msgid ""
+"Please upload your Estatik Pro / Premium version in zip format and click "
+"upload to finish for update to new Version."
+msgstr ""
+"version\n"
+" \n"
+"au format zip\n"
+" \n"
+"et\n"
+" \n"
+"cliquez sur Télécharger pour\n"
+" \n"
+"terminer\n"
+" \n"
+"la mise à jour\n"
+" \n"
+"à\n"
+" \n"
+"la version pro"
+
+#: estatik/admin/templates/upgrade-pro/upgrade-pro.php:14
+#, fuzzy
+#| msgid "Upload Zip"
+msgid "Upload archive"
+msgstr "Télécharger zip"
+
+#: estatik/admin/templates/widgets/es-property-slideshow-widget-form.php:39
+msgid "Show arrows"
+msgstr "Afficher flèches"
+
+#: estatik/admin/templates/widgets/es-property-slideshow-widget-form.php:40
+#: estatik/classes/class-estatik-init.php:686
+msgid "Yes"
+msgstr "Oui"
+
+#: estatik/admin/templates/widgets/es-property-slideshow-widget-form.php:43
+#: estatik/classes/class-estatik-init.php:688
+msgid "No"
+msgstr "Non"
+
+#: estatik/admin/templates/widgets/es-property-slideshow-widget-form.php:50
+#: estatik/admin/templates/widgets/es-property-slideshow-widget-form.php:61
+msgid "Slide Effect"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-property-slideshow-widget-form.php:62
+msgid "-- Select parameters for filtering --"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-property-slideshow-widget-form.php:87
+#, fuzzy
+#| msgid "Price"
+msgid "Min Price"
+msgstr "Prix"
+
+#: estatik/admin/templates/widgets/es-property-slideshow-widget-form.php:92
+#, fuzzy
+#| msgid "Price"
+msgid "Max Price"
+msgstr "Prix"
+
+#: estatik/admin/templates/widgets/es-property-slideshow-widget-form.php:97
+#, fuzzy
+#| msgid "Listings view"
+msgid "Listings IDs"
+msgstr "Vue des annonces"
+
+#: estatik/admin/templates/widgets/es-property-slideshow-widget-form.php:102
+msgid "Space between slides"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-property-slideshow-widget-form.php:112
+msgid "Slides to show"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-request-widget-form.php:8
+msgid "Learn more about this property"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-request-widget-form.php:11
+msgid ""
+"Hi, I`m interested in the property. Please send me more information about "
+"it. Thank you!"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-request-widget-form.php:17
+#: estatik/admin/templates/widgets/es-request-widget.php:23
+msgid "Estatik Request Info from"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-request-widget-form.php:21
+msgid "Request title"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-request-widget-form.php:26
+msgid "Request Message"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-request-widget-form.php:31
+#, fuzzy
+#| msgid "Table"
+msgid "Disable Name field"
+msgstr "Tableau"
+
+#: estatik/admin/templates/widgets/es-request-widget-form.php:36
+msgid "Disable Phone number field"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-request-widget-form.php:41
+msgid "Send Message To"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-request-widget-form.php:52
+#, fuzzy
+#| msgid "Details"
+msgid "Email subject"
+msgstr "Détails"
+
+#: estatik/admin/templates/widgets/es-request-widget.php:10
+#: estatik/templates/shortcodes/register.php:3
+msgid "Terms of Use"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-request-widget.php:11
+#: estatik/templates/shortcodes/register.php:4
+msgid "Privacy Policy"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-request-widget.php:39
+msgid "Your name"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-request-widget.php:44
+msgid "Your email"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-request-widget.php:49
+msgid "Phone number"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-request-widget.php:60
+#: estatik/templates/shortcodes/register.php:69
+#, php-format
+msgid "I agree to the %s and %s"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-request-widget.php:74
+msgid "Send"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-search-widget-form.php:24
+#, fuzzy
+#| msgid "Search Title:"
+msgid "Search Title"
+msgstr "Recherche"
+
+#: estatik/admin/templates/widgets/es-search-widget-form.php:40
+#, fuzzy
+#| msgid "Search"
+msgid "Enable save search"
+msgstr "Recherche"
+
+#: estatik/admin/templates/widgets/es-search-widget-form.php:46
+msgid "Add search field"
+msgstr "Ajouter un champ de recherche"
+
+#: estatik/admin/templates/widgets/es-search-widget-form.php:48
+msgid "-- Select field --"
+msgstr ""
+
+#: estatik/admin/templates/widgets/es-search-widget.php:63
+#: estatik/admin/templates/widgets/es-search-widget.php:65
+#, fuzzy
+#| msgid "Search"
+msgid "Save search"
+msgstr "Recherche"
+
+#: estatik/classes/class-address-components.php:38
+msgid "St. №"
+msgstr ""
+
+#: estatik/classes/class-address-components.php:39
+msgid "District"
+msgstr ""
+
+#: estatik/classes/class-address-components.php:40
+#: estatik/classes/class-property.php:440
+#: estatik/classes/class-property.php:441
+msgid "Street"
+msgstr "Rue"
+
+#: estatik/classes/class-address-components.php:43
+#, fuzzy
+#| msgid "Country"
+msgid "County"
+msgstr "Pays"
+
+#: estatik/classes/class-address-components.php:47
+#, fuzzy
+#| msgid "ZIP/Postcode"
+msgid "Postal code"
+msgstr "Code postal"
+
+#: estatik/classes/class-address-components.php:50
+msgid "Unknown"
+msgstr ""
+
+#: estatik/classes/class-archive-sorting.php:110
+msgid "Most recent"
+msgstr "Le plus récent"
+
+#: estatik/classes/class-archive-sorting.php:111
+msgid "Highest price"
+msgstr "Le prix le plus élevé"
+
+#: estatik/classes/class-archive-sorting.php:112
+msgid "Lowest price"
+msgstr "Prix le plus bas"
+
+#: estatik/classes/class-archive-sorting.php:113
+msgid "Most popular"
+msgstr "Le plus populaire"
+
+#: estatik/classes/class-estatik-init.php:363
+msgid "Estatik Buyer"
+msgstr "Agent "
+
+#: estatik/classes/class-estatik-init.php:683
+msgid "Something was wrong. Please, contact the support."
+msgstr ""
+
+#: estatik/classes/class-estatik-init.php:684
+msgid "Remove image"
+msgstr "Supprimer l'image"
+
+#: estatik/classes/class-estatik-init.php:685
+msgid "Remove"
+msgstr ""
+
+#: estatik/classes/class-estatik-init.php:687
+#, fuzzy
+#| msgid "General"
+msgid "Generating"
+msgstr "Paramètres généraux"
+
+#: estatik/classes/class-estatik-init.php:689
+#, fuzzy
+#| msgid "Save"
+msgid "Saved"
+msgstr "Enregistrer"
+
+#: estatik/classes/class-estatik-init.php:690
+msgid "Loading Shortcode Attributes..."
+msgstr ""
+
+#: estatik/classes/class-estatik-init.php:691
+msgid "Saving"
+msgstr ""
+
+#: estatik/classes/class-estatik-init.php:692
+msgid "Error"
+msgstr ""
+
+#: estatik/classes/class-estatik-init.php:693
+msgid "Ok"
+msgstr "Ok"
+
+#: estatik/classes/class-estatik-init.php:694
+#, fuzzy
+#| msgid "Select all"
+msgid "Select location"
+msgstr "Tout sélectionner"
+
+#: estatik/classes/class-estatik-init.php:695
+msgid "Sort by"
+msgstr ""
+
+#: estatik/classes/class-estatik-init.php:696
+msgid "Enable if you need to use multiselect feature for this drop-down field."
+msgstr ""
+
+#: estatik/classes/class-estatik-init.php:697
+#, fuzzy
+#| msgid "Are you sure you want to delete it?"
+msgid "Are you sure you want to delete this item?"
+msgstr "Voulez-vous vraiment supprimer ?"
+
+#: estatik/classes/class-estatik-init.php:698
+#, php-format
+msgid "The drag & drop feature <br>is available in %s or <br> %s versions."
+msgstr ""
+
+#: estatik/classes/class-estatik-init.php:699
+#: estatik/classes/class-estatik-init.php:702
+#: estatik/classes/class-estatik-init.php:705
+#, fuzzy
+#| msgid "Estatik Pro"
+msgid "Estatik PRO"
+msgstr "Estatik Pro"
+
+#: estatik/classes/class-estatik-init.php:700
+#: estatik/classes/class-estatik-init.php:703
+#: estatik/classes/class-estatik-init.php:706
+msgid "Premium"
+msgstr ""
+
+#: estatik/classes/class-estatik-init.php:701
+#, php-format
+msgid ""
+"The RETS integration feature <br>is available in %s or <br> %s versions."
+msgstr ""
+
+#: estatik/classes/class-estatik-init.php:704
+#, php-format
+msgid ""
+"The Search integration feature <br>is available in %s or <br> %s versions."
+msgstr ""
+
+#: estatik/classes/class-estatik-init.php:766
+msgid ""
+"Your account is not approved, please contact admin of this website to get "
+"approved."
+msgstr ""
+
+#: estatik/classes/class-estatik-init.php:792
+#: estatik/classes/class-manage-users.php:173
+msgid "Account disabled."
+msgstr ""
+
+#: estatik/classes/class-estatik-init.php:840
+#: estatik/classes/class-estatik-init.php:841
+#: estatik/classes/class-manage-users.php:233
+#: estatik/classes/class-manage-users.php:246
+#: estatik/classes/class-manage-users.php:259
+#, fuzzy
+#| msgid "Estatik Pro"
+msgid "Estatik"
+msgstr "Estatik Pro"
+
+#: estatik/classes/class-estatik-init.php:868
+#: estatik/classes/class-estatik-init.php:869
+msgid "Add new property"
+msgstr "Ajouter une nouvelle annonce"
+
+#: estatik/classes/class-estatik-init.php:876
+#: estatik/classes/class-estatik-init.php:877
+msgid "Data Manager"
+msgstr "Gestion des données"
+
+#: estatik/classes/class-estatik-init.php:886
+#: estatik/classes/class-estatik-init.php:887
+msgid "Buyers"
+msgstr "Agents"
+
+#: estatik/classes/class-estatik-init.php:893
+#: estatik/classes/class-estatik-init.php:894
+msgid "Add New Buyer"
+msgstr "Ajouter un nouvel agent"
+
+#: estatik/classes/class-estatik-init.php:921
+#: estatik/classes/class-estatik-init.php:922
+msgid "Estatik Pro"
+msgstr "Estatik Pro"
+
+#: estatik/classes/class-estatik-init.php:931
+#: estatik/classes/class-estatik-init.php:932
+msgid "Demo content"
+msgstr ""
+
+#: estatik/classes/class-estatik-init.php:993
+#, fuzzy
+#| msgid "Property ID"
+msgid "Property"
+msgstr "Ref annonce"
+
+#: estatik/classes/class-estatik-init.php:1007
+#: estatik/classes/class-estatik-init.php:1009
+#, fuzzy
+#| msgid "Search"
+msgid "Saved Search"
+msgstr "Recherche"
+
+#: estatik/classes/class-estatik-init.php:1052
+msgid "Feature"
+msgstr "Caractéristiques"
+
+#: estatik/classes/class-estatik-init.php:1073
+msgid "Label"
+msgstr ""
+
+#: estatik/classes/class-html-helper.php:22
+msgid "Field type parameter can't be empty"
+msgstr ""
+
+#: estatik/classes/class-html-helper.php:120
+#, fuzzy
+#| msgid "Choose Your Theme"
+msgid "Choose value"
+msgstr "Choisissez votre thème"
+
+#: estatik/classes/class-html-helper.php:171
+msgid "Link name"
+msgstr ""
+
+#: estatik/classes/class-html-helper.php:172
+msgid "Link URL"
+msgstr ""
+
+#: estatik/classes/class-html-helper.php:182
+#, fuzzy
+#| msgid "Date Format"
+msgid "Date From"
+msgstr "Format de la date"
+
+#: estatik/classes/class-html-helper.php:183
+#, fuzzy
+#| msgid "Date format"
+msgid "Date to"
+msgstr "Format de la date"
+
+#: estatik/classes/class-manage-users.php:207
+#: estatik/classes/class-manage-users.php:409
+msgid "Someone has requested a password reset for the following account:"
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:209
+#: estatik/classes/class-manage-users.php:411
+#: estatik/classes/class-manage-users.php:529
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:210
+#: estatik/classes/class-manage-users.php:412
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:211
+#: estatik/classes/class-manage-users.php:413
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:235
+#, php-format
+msgid ""
+"Please, create a registration page with <b>[es_register]</b> shortcode and "
+"set it on %s page."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:236
+#: estatik/classes/class-manage-users.php:249
+#: estatik/classes/class-manage-users.php:262
+msgid "Estatik General settings"
+msgstr "Paramètres généraux d'Estatik"
+
+#: estatik/classes/class-manage-users.php:248
+#, php-format
+msgid ""
+"Please, create a login page with <b>[es_login]</b> shortcode and set it on "
+"%s page."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:261
+#, php-format
+msgid ""
+"Please, create a password reset page with <b>[es_reset_pwd]</b> shortcode "
+"and set it on %s page."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:296
+msgid "Captcha validation failed."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:300
+msgid "Can't connect to google services. Please, contact the support."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:304
+msgid "Invalid recaptcha."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:333
+msgid ""
+"You are registered at our website. <br>Your username and password were sent "
+"to your email address."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:338
+msgid "You are not registered to our website. <br>Please, contact a support."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:341
+msgid "You are not registered to our website. <br>Invalid user role."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:357
+msgid "You are logged out."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:371
+msgid "<strong>ERROR</strong>: Enter a username or email address."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:375
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:396
+msgid "<strong>ERROR</strong>: Invalid username or email."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:427
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:457
+msgid "The email could not be sent."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:457
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:485
+#, fuzzy
+#| msgid "Color successfully changed."
+msgid "Password successfully changed."
+msgstr "Couleurs changer avec succès"
+
+#: estatik/classes/class-manage-users.php:490
+msgid "Email didn't sent. PHP Mail is doesn't work."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:499
+msgid "New password emailed to you."
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:528
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:530
+#, fuzzy, php-format
+#| msgid "Details"
+msgid "Email: %s"
+msgstr "Détails"
+
+#: estatik/classes/class-manage-users.php:532
+#: estatik/classes/class-manage-users.php:572
+msgid "New user registered"
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:534
+#, fuzzy, php-format
+#| msgid "Description"
+msgid "[%s] New User Registration"
+msgstr "Description"
+
+#: estatik/classes/class-manage-users.php:561
+#, php-format
+msgid "<b>Username</b>: %s"
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:562
+msgid "To set your password, visit the following address:"
+msgstr ""
+
+#: estatik/classes/class-manage-users.php:574
+#, php-format
+msgid "[%s] Your username and password info"
+msgstr ""
+
+#: estatik/classes/class-post-duplicate.php:33
+msgid "Property for clone doesn't exists."
+msgstr ""
+
+#: estatik/classes/class-property.php:258
+msgid "Price note"
+msgstr "Format du prix"
+
+#: estatik/classes/class-property.php:264 estatik/functions.php:405
+msgid "Call for price"
+msgstr "Appelez pour les Prix"
+
+#: estatik/classes/class-property.php:272
+#: estatik/classes/pages/class-property-single-page.php:433
+msgid "Bedrooms"
+msgstr "Chambres"
+
+#: estatik/classes/class-property.php:280
+#: estatik/classes/pages/class-property-single-page.php:434
+msgid "Bathrooms"
+msgstr "Salles de bain"
+
+#: estatik/classes/class-property.php:289
+#: estatik/classes/pages/class-property-single-page.php:435
+msgid "Floors"
+msgstr "Etages"
+
+#: estatik/classes/class-property.php:321
+#: estatik/classes/pages/class-property-single-page.php:429
+msgid "Lot size"
+msgstr "Surface du terrain"
+
+#: estatik/classes/class-property.php:345
+#: estatik/classes/pages/class-property-single-page.php:436
+msgid "Year built"
+msgstr "Année de construction"
+
+#: estatik/classes/class-property.php:354
+msgid "Address, City, ZIP"
+msgstr "Adresse, Ville, Code Postal"
+
+#: estatik/classes/class-property.php:364
+msgid "Latitude"
+msgstr "Latitude"
+
+#: estatik/classes/class-property.php:373
+msgid "Longitude"
+msgstr "Longitude"
+
+#: estatik/classes/class-saved-search-component.php:70
+#: estatik/classes/class-saved-search-component.php:74
+#, fuzzy
+#| msgid "Your search results."
+msgid "Choose search fields"
+msgstr "Vos résultats de recherche"
+
+#: estatik/classes/class-saved-search-component.php:78
+#: estatik/functions.php:1426
+msgid "Invalid security nonce. Please, refresh the page."
+msgstr ""
+
+#: estatik/classes/class-saved-search-component.php:100
+#: estatik/classes/class-saved-search-component.php:127
+msgid "Incorrect security nonce, please refresh the page."
+msgstr ""
+
+#: estatik/classes/class-saved-search-component.php:112
+#, fuzzy
+#| msgid "Color successfully changed."
+msgid "The update method successfully changed."
+msgstr "Couleurs changer avec succès"
+
+#: estatik/classes/class-saved-search-component.php:114
+#, fuzzy
+#| msgid "Single property"
+msgid "Incorrect update method"
+msgstr "Annonce seule"
+
+#: estatik/classes/class-saved-search-component.php:118
+#: estatik/classes/class-saved-search-component.php:186
+#, fuzzy
+#| msgid "Single property"
+msgid "Incorrect entity"
+msgstr "Annonce seule"
+
+#: estatik/classes/class-saved-search-component.php:140
+#, fuzzy
+#| msgid "Color successfully changed."
+msgid "The title successfully changed."
+msgstr "Couleurs changer avec succès"
+
+#: estatik/classes/class-saved-search-component.php:145
+#, fuzzy
+#| msgid "Single property"
+msgid "Incorrect saved search entity."
+msgstr "Annonce seule"
+
+#: estatik/classes/class-saved-search-component.php:148
+msgid "The title field is required."
+msgstr ""
+
+#: estatik/classes/class-saved-search-component.php:177
+#, fuzzy, php-format
+#| msgid "Property has been updated."
+msgid "The saved search %s successfully removed."
+msgstr "L'annonce a été mise à jour"
+
+#: estatik/classes/class-saved-search-component.php:183
+msgid "You have no permissions for remove this search."
+msgstr ""
+
+#: estatik/classes/class-saved-search.php:177
+msgid "Instant Update"
+msgstr ""
+
+#: estatik/classes/class-saved-search.php:178
+msgid "Daily Update"
+msgstr ""
+
+#: estatik/classes/class-saved-search.php:179
+msgid "No Update"
+msgstr ""
+
+#: estatik/classes/class-settings-container.php:67
+#, fuzzy
+#| msgid "Sq ft"
+msgid "sq ft"
+msgstr "Sq ft"
+
+#: estatik/classes/class-settings-container.php:68
+msgid "m²"
+msgstr ""
+
+#: estatik/classes/class-settings-container.php:69
+msgid "acres"
+msgstr ""
+
+#: estatik/classes/class-settings-container.php:70
+msgid "hectares"
+msgstr ""
+
+#: estatik/classes/class-settings-container.php:71
+msgid "m³"
+msgstr ""
+
+#: estatik/classes/class-settings-container.php:98
+msgid "List"
+msgstr ""
+
+#: estatik/classes/class-settings-container.php:99
+msgid "2 Columns"
+msgstr "2 colonnes"
+
+#: estatik/classes/class-settings-container.php:100
+msgid "3 Columns"
+msgstr "2 colonnes"
+
+#: estatik/classes/class-settings-container.php:106
+#, fuzzy
+#| msgid "Layout"
+msgid "Left layout"
+msgstr "Disposition / Mise en page"
+
+#: estatik/classes/class-settings-container.php:107
+#, fuzzy
+#| msgid "Listings layout"
+msgid "Right layout"
+msgstr "Mise en page des annonces"
+
+#: estatik/classes/class-settings-container.php:108
+msgid "Center layout"
+msgstr ""
+
+#: estatik/classes/class-settings-container.php:134
+msgid "After price"
+msgstr "Devise après le prix"
+
+#: estatik/classes/class-settings-container.php:135
+msgid "Before price"
+msgstr "Devise avant le prix"
+
+#: estatik/classes/class-settings-container.php:150
+msgid "Light"
+msgstr "Clair"
+
+#: estatik/classes/class-settings-container.php:150
+msgid "Dark"
+msgstr "Sombre"
+
+#: estatik/classes/class-settings-container.php:255
+msgid "Required"
+msgstr "Obligatoire"
+
+#: estatik/classes/class-settings-container.php:256
+msgid "Optional"
+msgstr "Optionnel"
+
+#: estatik/classes/class-user.php:145
+msgid "Email or username is empty."
+msgstr ""
+
+#: estatik/classes/pages/class-property-single-page.php:118
+msgid "View on map / Neighborhood"
+msgstr "Voir sur la carte / Quartier"
+
+#: estatik/classes/pages/class-property-single-page.php:428
+msgid "Area size"
+msgstr "Superficie"
+
+#: estatik/classes/pages/class-property-single-page.php:526
+msgid "To top"
+msgstr "Haut de page"
+
+#: estatik/classes/shortcodes/class-agent-register-shortcode.php:12
+#, fuzzy
+#| msgid "Description"
+msgid "Register form"
+msgstr "Description"
+
+#: estatik/classes/shortcodes/class-category-shortcode.php:12
+#, fuzzy
+#| msgid "Properties by category"
+msgid "Properties By Category"
+msgstr "Annonces par catégories"
+
+#: estatik/classes/shortcodes/class-cheapest-props-shortcode.php:12
+#, fuzzy
+#| msgid "Search Properties"
+msgid "Cheapest Properties"
+msgstr "Chercher un bien"
+
+#: estatik/classes/shortcodes/class-expensive-props-shortcode.php:12
+#, fuzzy
+#| msgid "View Properties"
+msgid "Expensive Properties"
+msgstr "Voir les annonces"
+
+#: estatik/classes/shortcodes/class-featured-props-shortcode.php:12
+#, fuzzy
+#| msgid "View Properties"
+msgid "Featured Properties"
+msgstr "Voir les annonces"
+
+#: estatik/classes/shortcodes/class-latest-props-shortcode.php:12
+#, fuzzy
+#| msgid "View Properties"
+msgid "Latest Properties"
+msgstr "Voir les annonces"
+
+#: estatik/classes/shortcodes/class-login-shortcode.php:11
+msgid "Login form"
+msgstr ""
+
+#: estatik/classes/shortcodes/class-profile-shortcode.php:11
+#, fuzzy
+#| msgid "After price"
+msgid "User profile"
+msgstr "Devise après le prix"
+
+#: estatik/classes/shortcodes/class-profile-shortcode.php:126
+#: estatik/templates/shortcodes/partials/saved-searches-tab.php:10
+#, fuzzy
+#| msgid "Search"
+msgid "Saved Searches"
+msgstr "Recherche"
+
+#: estatik/classes/shortcodes/class-profile-shortcode.php:131
+#: estatik/templates/shortcodes/partials/saved-homes-tab.php:9
+#, fuzzy
+#| msgid "Save & Close"
+msgid "Saved Homes"
+msgstr "Enregistrer et Fermer"
+
+#: estatik/classes/shortcodes/class-property-slideshow-shortcode.php:12
+#, fuzzy
+#| msgid "Estatik Search"
+msgid "Slideshow"
+msgstr "Recherche Estatik"
+
+#: estatik/classes/shortcodes/class-search-form-shortcode.php:16
+#, fuzzy
+#| msgid "Search"
+msgid "Search form"
+msgstr "Recherche"
+
+#: estatik/classes/shortcodes/class-search-shortcode.php:12
+#, fuzzy
+#| msgid "Your search results."
+msgid "Search results"
+msgstr "Vos résultats de recherche"
+
+#: estatik/classes/shortcodes/class-single-shortcode.php:12
+msgid "Single property"
+msgstr "Annonce seule"
+
+#: estatik/functions.php:196
+msgid "Ver"
+msgstr ""
+
+#: estatik/functions.php:269
+#, fuzzy
+#| msgid "%g baths"
+msgid "%g bath"
+msgstr "%s salles de bains"
+
+#: estatik/functions.php:269
+msgid "%g baths"
+msgstr "%s salles de bains"
+
+#: estatik/functions.php:303
+#, fuzzy
+#| msgid "%g beds"
+msgid "%g bed"
+msgstr "%s chambres"
+
+#: estatik/functions.php:303
+msgid "%g beds"
+msgstr "%s chambres"
+
+#: estatik/functions.php:668
+msgid "Featured"
+msgstr "Sélectionnée"
+
+#: estatik/functions.php:669
+msgid "Hot"
+msgstr "Dernière minute"
+
+#: estatik/functions.php:670
+msgid "Open House"
+msgstr "Journée(s) portes ouvertes"
+
+#: estatik/functions.php:671
+msgid "Foreclosure"
+msgstr "Saisie immobilière"
+
+#: estatik/functions.php:1329 estatik/functions.php:1332
+msgid "Edit property"
+msgstr "Modifier l'annonce"
+
+#: estatik/functions.php:1414
+msgid "Item didn't added to the wishlist"
+msgstr ""
+
+#: estatik/functions.php:1417
+msgid "Incorrect wishlist action."
+msgstr ""
+
+#: estatik/functions.php:1420
+#, fuzzy
+#| msgid "Single property"
+msgid "Incorrect property type."
+msgstr "Annonce seule"
+
+#: estatik/functions.php:1423
+#, fuzzy
+#| msgid "Single property"
+msgid "Incorrect property."
+msgstr "Annonce seule"
+
+#: estatik/functions.php:1594 estatik/functions.php:1595
+#, fuzzy
+#| msgid "Estatik Pro"
+msgid "Estatik Shortcode Builder"
+msgstr "Estatik Pro"
+
+#: estatik/templates/archive-properties.php:15
+msgid "Properties"
+msgstr "Annonces"
+
+#: estatik/templates/archive-properties.php:29
+msgid "Nothing to display."
+msgstr ""
+
+#: estatik/templates/content-archive.php:29
+msgid "No image"
+msgstr "Pas d'image"
+
+#: estatik/templates/content-archive.php:115
+msgid "View on map"
+msgstr "Montrer sur la carte"
+
+#: estatik/templates/content-archive.php:119
+msgid "Details"
+msgstr "Détails"
+
+#: estatik/templates/partials/request-form-response.php:2
+msgid "Your message was sent"
+msgstr ""
+
+#: estatik/templates/partials/request-form-response.php:6
+msgid "Your message was'nt sent"
+msgstr ""
+
+#: estatik/templates/partials/request-form-response.php:8
+msgid "Try again"
+msgstr ""
+
+#: estatik/templates/powered.php:6
+#, php-format
+msgid "Powered by <a href=\"%s\" target=\"_blank\">Estatik</a>"
+msgstr ""
+
+#: estatik/templates/search.php:3
+msgid "Search properties"
+msgstr "Chercher un bien"
+
+#: estatik/templates/shortcodes/login.php:5
+#: estatik/templates/shortcodes/login.php:26
+msgid "Log in"
+msgstr ""
+
+#: estatik/templates/shortcodes/login.php:14
+#: estatik/templates/shortcodes/partials/my-profile-tab.php:45
+msgid "Username"
+msgstr ""
+
+#: estatik/templates/shortcodes/login.php:31
+msgid "I forgot my password"
+msgstr ""
+
+#: estatik/templates/shortcodes/login.php:35
+msgid "I need to register for a new account"
+msgstr ""
+
+#: estatik/templates/shortcodes/login.php:47
+#: estatik/templates/shortcodes/register.php:95
+#: estatik/templates/shortcodes/reset.php:47
+msgid "You are already logged in."
+msgstr ""
+
+#: estatik/templates/shortcodes/login.php:48
+#: estatik/templates/shortcodes/register.php:96
+#: estatik/templates/shortcodes/reset.php:48
+msgid "Logout"
+msgstr ""
+
+#: estatik/templates/shortcodes/my-listing.php:29
+#: estatik/templates/shortcodes/partials/saved-homes-tab.php:33
+#, fuzzy
+#| msgid "Num properties for display"
+msgid "Nothing to display"
+msgstr "Aucune annonce trouvée"
+
+#: estatik/templates/shortcodes/partials/my-profile-tab.php:24
+msgid "Profile image"
+msgstr ""
+
+#: estatik/templates/shortcodes/partials/my-profile-tab.php:30
+msgid "Change Photo"
+msgstr ""
+
+#: estatik/templates/shortcodes/partials/my-profile-tab.php:53
+#, fuzzy
+#| msgid "Details"
+msgid "E-mail"
+msgstr "Détails"
+
+#: estatik/templates/shortcodes/partials/my-profile-tab.php:74
+msgid "Confirm Password"
+msgstr ""
+
+#: estatik/templates/shortcodes/partials/saved-homes-tab.php:10
+msgid ""
+"Your saved homes can be found here. You can view details or delete your "
+"favourite listings."
+msgstr ""
+
+#: estatik/templates/shortcodes/partials/saved-searches-tab.php:12
+msgid ""
+"Your saved searches can be found here. You can delete or view new listings "
+"matching your searches."
+msgstr ""
+
+#: estatik/templates/shortcodes/partials/saved-searches-tab.php:20
+#, fuzzy, php-format
+#| msgid "Search"
+msgid "Saved Search #%s"
+msgstr "Recherche"
+
+#: estatik/templates/shortcodes/partials/saved-searches-tab.php:58
+#, fuzzy
+#| msgid "My Listings"
+msgid "View Listings"
+msgstr "Mes annonces"
+
+#: estatik/templates/shortcodes/partials/saved-searches-tab.php:62
+#, fuzzy
+#| msgid "Delete"
+msgid "Delete Search"
+msgstr "Supprimer"
+
+#: estatik/templates/shortcodes/register.php:13
+#: estatik/templates/shortcodes/register.php:85
+msgid "Register"
+msgstr ""
+
+#: estatik/templates/shortcodes/register.php:50
+msgid "Photo/Logo"
+msgstr ""
+
+#: estatik/templates/shortcodes/register.php:57
+#, fuzzy
+#| msgid "Upload Zip"
+msgid "Upload photo"
+msgstr "Télécharger zip"
+
+#: estatik/templates/shortcodes/reset.php:14
+msgid "Restore password"
+msgstr ""
+
+#: estatik/templates/shortcodes/reset.php:21
+msgid "Enter new password"
+msgstr ""
+
+#: estatik/templates/shortcodes/reset.php:23
+msgid "Username or email address"
+msgstr ""
+
+#: estatik/templates/shortcodes/reset.php:34
+msgid "Get new password"
+msgstr ""
+
+#~ msgid "%s bath"
+#~ msgid_plural "%s baths"
+#~ msgstr[0] "%s salle de bain"
+#~ msgstr[1] "%s salle de bain"
+
+#~ msgid "%s bed"
+#~ msgid_plural "%s beds"
+#~ msgstr[0] "%s chambre"
+#~ msgstr[1] "%s chambre"
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "PayPal Subscription"
+#~ msgstr "Description"
+
+#, fuzzy
+#~| msgid "Estatik Pro"
+#~ msgid "Estatik Agent"
+#~ msgstr "Estatik Pro"
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "Subscriptions"
+#~ msgstr "Description"
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "Add subscription"
+#~ msgstr "Description"
+
+#~ msgid "Categories"
+#~ msgstr "Catégories"
+
+#~ msgid "Types"
+#~ msgstr "Types"
+
+#, fuzzy
+#~| msgid "General Settings"
+#~ msgid "Rating"
+#~ msgstr "Paramètres généraux"
+
+#~ msgid "Sold properties"
+#~ msgstr "Biens vendus"
+
+#~ msgid "Estatik error"
+#~ msgstr "Erreur d'Estatik"
+
+#~ msgid "Estatik Subscription"
+#~ msgstr "Estatik Pro"
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "Subscription"
+#~ msgstr "Description"
+
+#, fuzzy
+#~| msgid "Undo selection"
+#~ msgid "Edit subscription"
+#~ msgstr "Déselectionner"
+
+#, fuzzy
+#~| msgid "My listings"
+#~ msgid "All listing"
+#~ msgstr "Mes annonces"
+
+#, fuzzy
+#~| msgid "Search Properties"
+#~ msgid "Featured listings"
+#~ msgstr "Chercher un bien"
+
+#, fuzzy
+#~| msgid "Price"
+#~ msgid "Renewal Price"
+#~ msgstr "Prix"
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "Subscription data"
+#~ msgstr "Description"
+
+#~ msgid "Basic Facts"
+#~ msgstr "Présentation"
+
+#~ msgid "Properties sold"
+#~ msgstr "Propriétés vendues"
+
+#~ msgid "More details"
+#~ msgstr "Détails"
+
+#, fuzzy
+#~| msgid "Show/hide Contact Agent tab"
+#~ msgid "Contact agent"
+#~ msgstr "Afficher / masquer l'onglet Agent de contact"
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "Enable subscriptions"
+#~ msgstr "Description"
+
+#, fuzzy
+#~| msgid "Features"
+#~ msgid "Signature"
+#~ msgstr "Caractéristiques"
+
+#, fuzzy
+#~| msgid "Currency sign place"
+#~ msgid "Current subscription plan"
+#~ msgstr "Symbole de la monnaie"
+
+#, fuzzy
+#~| msgid "Property #"
+#~ msgid "Property qty"
+#~ msgstr "Ref annonce"
+
+#, fuzzy
+#~| msgid "Featured"
+#~ msgid "Featured qty"
+#~ msgstr "Sélectionnée"
+
+#, fuzzy
+#~| msgid "Country"
+#~ msgid "Amount"
+#~ msgstr "Pays"
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "Subscription period"
+#~ msgstr "Description"
+
+#, fuzzy
+#~| msgid "Rent period"
+#~ msgid "Trial period"
+#~ msgstr "Période de location"
+
+#, fuzzy
+#~| msgid "Lot size"
+#~ msgid "Not set"
+#~ msgstr "Surface du terrain"
+
+#, fuzzy
+#~| msgid "Properties"
+#~ msgid "Properties q-ty"
+#~ msgstr "Annonces"
+
+#, fuzzy
+#~| msgid "Color successfully changed."
+#~ msgid "Payment successfully canceled."
+#~ msgstr "Couleurs changer avec succès"
+
+#, fuzzy
+#~| msgid "Select all"
+#~ msgid "Select taxonomy"
+#~ msgstr "Tout sélectionner"
+
+#, fuzzy
+#~| msgid "Select Pages"
+#~ msgid "Select term"
+#~ msgstr "Sélectionner les pages"
+
+#, fuzzy
+#~| msgid "General settings"
+#~ msgid "Extra settings"
+#~ msgstr "Paramètres généraux"
+
+#, fuzzy
+#~| msgid "Height"
+#~ msgid "Height"
+#~ msgstr "Hauteur"
+
+#, fuzzy
+#~| msgid "Number of listings per page"
+#~ msgid "Number of listings to show"
+#~ msgstr "Nombre d'annonces par page"
+
+#~ msgid "Properties by type"
+#~ msgstr "Annonces par type"
+
+#~ msgid "Properties by status"
+#~ msgstr "Biens par statut"
+
+#~ msgid "Properties by rent period"
+#~ msgstr "Annonces par période de location"
+
+#, fuzzy
+#~| msgid "Search Properties"
+#~ msgid "Specific properties"
+#~ msgstr "Chercher un bien"
+
+#, fuzzy
+#~| msgid "Listings view"
+#~ msgid "Listing publishing"
+#~ msgstr "Vue des annonces"
+
+#, fuzzy
+#~| msgid "Show/hide Contact Agent tab"
+#~ msgid "Show/hide Contact Agent tab "
+#~ msgstr "Afficher / masquer l'onglet Agent de contact"
+
+#~ msgid "Admin Logo image"
+#~ msgstr "Admin Logo Image"
+
+#~ msgid "Admin Logo Width"
+#~ msgstr "Largeur du logo administrateur"
+
+#~ msgid "Admin Logo Height"
+#~ msgstr "Admin Logo Hauteur"
+
+#, fuzzy
+#~| msgid "Title"
+#~ msgid "Map Title:"
+#~ msgstr "Titre"
+
+#, fuzzy
+#~| msgid "Search Properties"
+#~ msgid "Import properties"
+#~ msgstr "Chercher un bien"
+
+#, fuzzy
+#~| msgid "Please Edit your property detail and click save to finish."
+#~ msgid ""
+#~ "Please Import your property detail with CSV sample and click save to "
+#~ "finish"
+#~ msgstr ""
+#~ "Editez votre annonce en détail et cliquez sur Enregistrer pour terminer"
+
+#~ msgid "Start import"
+#~ msgstr "Commencer à importer"
+
+#, fuzzy
+#~| msgid "Property ID"
+#~ msgid "Property status"
+#~ msgstr "Ref annonce"
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "Subscription plan"
+#~ msgstr "Description"
+
+#, fuzzy
+#~| msgid "Properties"
+#~ msgid "Properties Q-ty"
+#~ msgstr "Annonces"
+
+#~ msgid "Image field"
+#~ msgstr "Champ image"
+
+#, fuzzy
+#~| msgid "Property #"
+#~ msgid "Property title"
+#~ msgstr "Ref annonce"
+
+#~ msgid "Year Built"
+#~ msgstr "Année de construction"
+
+#~ msgid "Update Type Category"
+#~ msgstr "Mettre à jour le type de catégorie"
+
+#~ msgid "Add New Type Category"
+#~ msgstr "Ajouter un nouveau type de catégorie"
+
+#~ msgid "New Type Category"
+#~ msgstr "Nouveau type de catégorie"
+
+#~ msgid "Type Categories"
+#~ msgstr "Type de catégories"
+
+#~ msgid "Please fill your field."
+#~ msgstr "Merci de remplir ce champ"
+
+#~ msgid "field has been added."
+#~ msgstr "Ce champ a été ajouté"
+
+#~ msgid "Location"
+#~ msgstr "Localisation"
+
+#~ msgid "States/Regions"
+#~ msgstr "Etat/Région"
+
+#~ msgid "Cities"
+#~ msgstr "Ville"
+
+#~ msgid "Appliances"
+#~ msgstr "Appareils"
+
+#~ msgid "No record found. Please add new one."
+#~ msgstr "Aucun enregistrement trouvé. Ajoutez-en un nouveau."
+
+#~ msgid ""
+#~ "Full advanced version with extra portal management option, social "
+#~ "sharing, additional widgets support, etc."
+#~ msgstr ""
+#~ "La pleine\n"
+#~ " \n"
+#~ "version avancée\n"
+#~ " \n"
+#~ "avec l'option\n"
+#~ " \n"
+#~ "supplémentaire\n"
+#~ " \n"
+#~ "de gestion de\n"
+#~ " \n"
+#~ "portail\n"
+#~ ", de partage\n"
+#~ " \n"
+#~ "social, le soutien\n"
+#~ " \n"
+#~ "des\n"
+#~ " \n"
+#~ "widgets\n"
+#~ " \n"
+#~ "supplémentaires\n"
+#~ ", etc."
+
+#~ msgid "Please upload your"
+#~ msgstr ""
+#~ "S'il vous plaît\n"
+#~ " \n"
+#~ "télécharger votre "
+
+#~ msgid "Upload"
+#~ msgstr "Télécharger"
+
+#~ msgid "Please enter numbers only."
+#~ msgstr "Indiquez des chiffres uniquement"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "Period"
+#~ msgstr "Période"
+
+#~ msgid "Built in"
+#~ msgstr "Date de construction"
+
+#~ msgid "Choose Country"
+#~ msgstr "Choisir un pays"
+
+#~ msgid "State/Region"
+#~ msgstr "Etat / Région"
+
+#~ msgid "Select files or upload images in a zip-file."
+#~ msgstr ""
+#~ "Sélectionnez des fichiers ou téléchargez vos images dans un fichier Zip"
+
+#~ msgid ""
+#~ "The first image will be default image. You can drag and drop images to "
+#~ "change their order."
+#~ msgstr ""
+#~ "La première image sera l'image par défaut. Vous pouvez glisser et déposer "
+#~ "des images pour modifier leur ordre."
+
+#~ msgid "Property has been deleted."
+#~ msgstr "L'annonce a été supprimée"
+
+#~ msgid "Selected properties have been copied."
+#~ msgstr "Les annonces sélectionnées ont été copiées."
+
+#~ msgid "Selected properties have been deleted."
+#~ msgstr "Les annonces sélectionnées ont été supprimées."
+
+#~ msgid "Selected properties have been published."
+#~ msgstr "Les annonces sélectionnées ont été publiées."
+
+#~ msgid "Selected properties have been unpublished."
+#~ msgstr "Les annnoces sélectionnées ont été retirées."
+
+#~ msgid "Edit"
+#~ msgstr "Editer"
+
+#~ msgid "No record found."
+#~ msgstr "Aucun enregistrement trouvé."
+
+#~ msgid "No City"
+#~ msgstr "Pas de ville"
+
+#~ msgid "No record found. please add new one."
+#~ msgstr "Pas d'enregistrement trouvé. Veuillez en ajouter un."
+
+#~ msgid "Images"
+#~ msgstr "Images"
+
+#~ msgid "Title/Address"
+#~ msgstr "Titre/Adresse"
+
+#~ msgid "Disabled Layouts are available in"
+#~ msgstr ""
+#~ "Mises\n"
+#~ " \n"
+#~ "à mobilité réduite sont\n"
+#~ " \n"
+#~ "disponibles dans"
+
+#~ msgid "version"
+#~ msgstr "version"
+
+#~ msgid "Resize method"
+#~ msgstr "Méthode de recadrage"
+
+#~ msgid "Crop & shrink"
+#~ msgstr "Rogner et rétrécir"
+
+#~ msgid "Crop"
+#~ msgstr "Rogner"
+
+#~ msgid "list"
+#~ msgstr "liste"
+
+#~ msgid "Widht"
+#~ msgstr "Largeur"
+
+#~ msgid "Photo on<br />the left/right"
+#~ msgstr "Photo sur<br />la gauche/la droite"
+
+#~ msgid "Photo <br />in center"
+#~ msgstr "Photo <br />au centre"
+
+#~ msgid "Photo <br /> Thumb"
+#~ msgstr "Photo <br /> miniature"
+
+#~ msgid "Disabled fields are available in"
+#~ msgstr ""
+#~ "Champs\n"
+#~ " \n"
+#~ "mobilité\n"
+#~ " \n"
+#~ "sont disponibles dans"
+
+#~ msgid "Dollar, Euro, etc"
+#~ msgstr "Dollar, Euro, etc."
+
+#~ msgid "NO"
+#~ msgstr "NO"
+
+#~ msgid "Sharing Feature is available in"
+#~ msgstr ""
+#~ "Partage\n"
+#~ " \n"
+#~ "fonctionnalité est disponible dans"
+
+#~ msgid "version only"
+#~ msgstr "seule version"
+
+#~ msgid "Address:"
+#~ msgstr "Adresse"
+
+#~ msgid "Price:"
+#~ msgstr "Prix"
+
+#~ msgid "Bedrooms:"
+#~ msgstr "Chambres"
+
+#~ msgid "Bathrooms:"
+#~ msgstr "Salles de bain"
+
+#~ msgid "Category:"
+#~ msgstr "Catégorie"
+
+#~ msgid "Type:"
+#~ msgstr "Type "
+
+#~ msgid "Sqft:"
+#~ msgstr "m²:"
+
+#~ msgid "Lot size:"
+#~ msgstr "Surface du terrain"
+
+#~ msgid "Keywords:"
+#~ msgstr "Mots-clés"
+
+#~ msgid "hot"
+#~ msgstr "Dernière minute"
+
+#~ msgid "openhouse"
+#~ msgstr "Portes ouvertes"
+
+#~ msgid "foreclosure"
+#~ msgstr "Saisie immobilière"
+
+#~ msgid "Powered by"
+#~ msgstr "Sponsorisé par"
+
+#~ msgid "View first"
+#~ msgstr "Filtrer par"
+
+#~ msgid "Menu is empty."
+#~ msgstr "Le menu est vide."
+
+#~ msgid "Key words"
+#~ msgstr "Mots-clés"
+
+#~ msgid "Here you can add video and upload images."
+#~ msgstr "Ici, vous pouvez ajouter de la vidéo et télécharger des images."
