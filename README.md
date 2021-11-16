@@ -1,7 +1,7 @@
 # Chalets-et-Caviar
 *Projet 2 du parcours "Développeur d'applications PHP/Symfony" formation Openclassrooms*
 
-### Lien vers le site: http://chalets-et-caviar.alexandremanteaux.fr/
+### Lien vers le site: https://chalets-et-caviar.alexandremanteaux.fr/
 
 ## Contexte
 
